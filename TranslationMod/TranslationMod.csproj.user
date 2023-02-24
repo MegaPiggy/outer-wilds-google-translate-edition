@@ -1,5 +1,0 @@
-﻿<Project>
-  <PropertyGroup>
-    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\BA.TranslationMod</OutputPath>
-  </PropertyGroup>
-</Project>
