@@ -15494,95 +15494,95 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1314</key>
-			<value> (Auto Detect)</value>
+			<value> (automatic search)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1315</key>
-			<value> (Custom)</value>
+			<value> (character)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1316</key>
-			<value>Unknown Input Detected</value>
+			<value>The result is an unknown force</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1317</key>
-			<value>Joystick Axis</value>
+			<value>It is built on a happy tree</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1318</key>
-			<value>Designate Joystick Type</value>
+			<value>Set happiness mode.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1319</key>
-			<value>Normal [-1, 1]</value>
+			<value>a [-1, 1];</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1320</key>
-			<value>Trigger [-1, 1]</value>
+			<value>cat [-1, 1];</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1321</key>
-			<value>Action</value>
+			<value>Work</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1322</key>
-			<value>Retrieve Scout</value>
+			<value>Psychotherapy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1323</key>
-			<value>Primary Tool Action</value>
+			<value>The first stage of this disease begins.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1324</key>
-			<value>Secondary Tool Action</value>
+			<value>materials used</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1325</key>
-			<value>Launch/Retrieve Scout</value>
+			<value>Start/Stop Search.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1326</key>
-			<value>V1.x.8 Key Binding Update</value>
+			<value>Major update V1.x.8</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1327</key>
-			<value>Old Key Bindings</value>
+			<value>An old tea House</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1328</key>
-			<value>New Key Bindings</value>
+			<value>Key again</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1329</key>
-			<value>Open Rebinding Menu</value>
+			<value>Open the list.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1330</key>
-			<value>Continue</value>
+			<value>Always</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1331</key>
-			<value>Save Changes?</value>
+			<value>Saving Changes?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1332</key>
-			<value>Save Key Bindings</value>
+			<value>Find the key to the problem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1333</key>
-			<value>Discard Key Bindings</value>
+			<value>Open the chain</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1334</key>
-			<value>Keyboard Layout</value>
+			<value>Marketing planning</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1335</key>
-			<value>Update Keyboard Bindings?</value>
+			<value>New car</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1336</key>
-			<value>Convert Keys from </value>
+			<value>Change the key from </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1337</key>
@@ -15590,27 +15590,27 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1338</key>
-			<value> Layout</value>
+			<value></value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1339</key>
-			<value>Keep Keys as-is</value>
+			<value>Find the key to the problem.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1400</key>
-			<value>Next Tab</value>
+			<value>It is as follows.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1401</key>
-			<value>Reset Current Changes</value>
+			<value>change now.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1402</key>
-			<value>Leave &amp; Save Changes</value>
+			<value>Let it go and nothing will change.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1403</key>
-			<value>Audio &amp; Language</value>
+			<value>Horses and horses</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1404</key>
@@ -15642,35 +15642,36 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1412</key>
-			<value>Makes driving on dangerous roads easier.</value>
+			<value>Easy driving on dangerous roadser.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1413</key>
-			<value>The frightening aspects of Echoes of the Eye are part of the intended experience. If they become an obstacle to your enjoyment of Outer Wilds, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+			<value>Test ID Jesus is here is part of the support process. If so, some Outewater files are found. \\nyou speak english</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1414</key>
-			<value>The frightening aspects of Outer Wilds are part of the intended experience. If they become an obstacle to your enjoyment of the game, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+			<value>This is part of patch Outewater. If this option affects the game, it may cause problems.
+			Are you sure?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1420</key>
-			<value>Jetpack Auto Boost</value>
+			<value>Do not go to the car</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1421</key>
-			<value>Translator Auto Equip</value>
+			<value>True color</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
-			<value>Freeze time while translating text</value>
+			<value>Remember the translated words.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1423</key>
-			<value>Freeze time while reading ship log</value>
+			<value>Read silently</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1424</key>
-			<value>Freeze time while talking to others</value>
+			<value>Spend time talking to other people.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1430</key>
@@ -15742,7 +15743,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1503</key>
-			<value>Horses &amp; horses</value>
+			<value>Horses and horses</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1504</key>
@@ -15762,11 +15763,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1508</key>
-			<value>Elsewhere in the sporting world, the situation is dire.\\nThe price of each orde</value>
+			<value>Elsewhere in the sporting world, the situation is dire.\\nThe price of each order</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1509</key>
-			<value>Do not know, I do not know</value>
+			<value>Do not know; I do not know</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1510</key>
@@ -15782,7 +15783,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1513</key>
-			<value>Read (Horses &amp; horses)</value>
+			<value>Read (Horses and horses)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1514</key>
@@ -15822,7 +15823,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1540</key>
-			<value>After entering the subtitle, Jesus is here. Returning to the big screen?</value>
+			<value>After entering the subtitle, there is an echo field. Returning to the big screen?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1541</key>
@@ -15830,7 +15831,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1542</key>
-			<value>See also: Adding/editing images\\nNote: Climate change.\\nTranslation</value>
+<value>See also: Adding/editing images\\nNote: Climate change.\\nTranslation</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1543</key>
