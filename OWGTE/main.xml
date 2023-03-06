@@ -515,7 +515,7 @@
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
 		<value>
-			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
+			Note: Your Divine Love is created with our &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; Shield. But remember the last rule: to get the sixth place, the temple must be at the end of the month.
 		</value>
 	</entry>
 	<entry>
@@ -523,23 +523,23 @@
 			BELLS: Be curious on your journey!
 		</key>
 		<value>
-			BELLS: Be curious on your journey!
+			Tools: use your way!
 		</value>
 	</entry>
 	<entry>
 		<key>BELLS: Be welcomed in this place! Above you stands the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</key>
-		<value>BELLS: Be welcomed in this place! Above you stands the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</value>
+		<value>Resources: Welcome to this site! Above you is a great &lt;color=orange&gt;tower of knowledge&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</key>
-		<value>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</value>
+		<value>Note: If this is your first visit to &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, follow the steps below to get the latest information you need for your trip.</value>
 	</entry>
 	<entry>
 		<key>
 			BELLS: Beneath your feet lies the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.
 		</key>
 		<value>
-			BELLS: Beneath your feet lies the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.
+			Bear: The &lt;color=orange&gt;tower&lt;/color&gt; speaks beneath your feet.
 		</value>
 	</entry>
 	<entry>
@@ -547,23 +547,23 @@
 			BELLS: If you are preparing to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, descend the steps to the entrance below. The knowledge held within will help you on your journey.
 		</key>
 		<value>
-			BELLS: If you are preparing to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, descend the steps to the entrance below. The knowledge held within will help you on your journey.
+			Leap: When you're ready to go to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, go down the stairs to the door. Inside information will help you on your journey.
 		</value>
 	</entry>
 	<entry>
 		<key>Activate the &lt;color=orange&gt;gravity cannon&lt;/color&gt;</key>
-		<value>Activate the &lt;color=orange&gt;gravity cannon&lt;/color&gt;</value>
+		<value>Tuck the &lt;color=orange&gt;ball&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>Call the &lt;color=orange&gt;shuttle&lt;/color&gt; home</key>
-		<value>Call the &lt;color=orange&gt;shuttle&lt;/color&gt; home</value>
+		<value>Take the &lt;color=orange&gt;car&lt;/color&gt; home.</value>
 	</entry>
 	<entry>
 		<key>
 			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
 		</key>
 		<value>
-			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
+			Lavi: See you at &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; for the match! If you're too old for &lt;color=orange&gt;fishing&lt;/color&gt;, skip this hole;
 		</value>
 	</entry>
 	<entry>
@@ -571,7 +571,7 @@
 			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
 		</key>
 		<value>
-			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
+			Lavi: You've come a long way, but not very far. Go to the &lt;color=orange&gt;Rock Cave&lt;/color&gt; and then to the &lt;color=orange&gt;Fossil Cave&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -579,7 +579,7 @@
 			TAGET: I tried to get to the fossil fish through &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, but I couldn’t find the entrance. Where is it?
 		</key>
 		<value>
-			TAGET: I tried to get to the fossil fish through &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, but I couldn’t find the entrance. Where is it?
+			Objective: I tried the old fish in the &lt;color=orange&gt;cave&lt;/color&gt;, but I couldn't find the door. where it is?
 		</value>
 	</entry>
 	<entry>
@@ -587,43 +587,43 @@
 			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
 		</key>
 		<value>
-			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
+			Rules: Remember to salt the fish! If you &lt;color=orange&gt;look at a fisherman&lt;/color&gt; and hold a flashlight in your mouth, he will show you the way.
 		</value>
 	</entry>
 	<entry>
 		<key>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</key>
-		<value>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</value>
+		<value>Me: Your necklace won't fit in the &lt;color=orange&gt;aquarium&lt;/color&gt; and you can't find it because it's too big! That's Levi's height.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Who cares? Ilex is still tallest.</key>
-		<value>LAEVI: Who cares? Ilex is still tallest.</value>
+		<value>Ravi: Who cares? It's a very old law.</value>
 	</entry>
 	<entry>
 		<key>TAGET: Are we playing the fossil fish game tonight?</key>
-		<value>TAGET: Are we playing the fossil fish game tonight?</value>
+		<value>Objective: Will we be fishing today?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</key>
-		<value>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</value>
+		<value>Solanum: I fed a new pepper in the light. If you continue through the &lt;color=orange&gt;tunnel&lt;/color&gt;, you will find the exit to &lt;color=orange&gt;Fossil Cave&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</key>
-		<value>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</value>
+		<value>Ravi: Thank you Solanasa! Great if you don't like &lt;color=orange&gt;English fly fishing&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>LAMI: I’m still small enough!</key>
-		<value>LAMI: I’m still small enough!</value>
+		<value>Lemmy: I'm just a kid!</value>
 	</entry>
 	<entry>
 		<key>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</key>
-		<value>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</value>
+		<value>Lavie: They don't grow. You and I are tall because mom and dad are tall.</value>
 	</entry>
 	<entry>
 		<key>
 			MELORAE: The heat from this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt; is more bearable below the surface.
 		</key>
 		<value>
-			MELORAE: The heat from this star system’s sun is more bearable below the surface.
+			Melora: The temperatures in the solar system favor the soil.
 		</value>
 	</entry>
 	<entry>
@@ -631,7 +631,7 @@
 			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
 		</key>
 		<value>
-			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
+			Mallory: When it &lt;color=orange&gt;escapes&lt;/color&gt; the surface of our planet, it splits into a system of cold caves. I &lt;i&gt;think&lt;/i&gt; we need to find a small place to build a permanent home, but Anona, these are crazy ways!
 		</value>
 	</entry>
 	<entry>
@@ -639,7 +639,7 @@
 			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
 		</key>
 		<value>
-			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
+			Analysis: While this is a problem, it is an opportunity for our security. We encourage groups to make tunnels. We can hang our products on the wall so that they are not eaten.
 		</value>
 	</entry>
 	<entry>
@@ -647,7 +647,7 @@
 			ANNONA: Be cautious, everyone.
 		</key>
 		<value>
-			ANNONA: Be cautious, everyone.
+			Anna: Everyone be careful.
 		</value>
 	</entry>
 	<entry>
@@ -655,7 +655,7 @@
 			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
 		</key>
 		<value>
-			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
+			RHS: Look at the sand you want. It seems to be growing.
 		</value>
 	</entry>
 	<entry>
@@ -663,7 +663,7 @@
 			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
 		</key>
 		<value>
-			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
+			Hill: The path to the top of the house is confusing, follow the directions!
 		</value>
 	</entry>
 	<entry>
@@ -671,7 +671,7 @@
 			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
 		</key>
 		<value>
-			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
+			Directions: Once you reach Messenia, keep driving until you reach the beach and turn left. Continue through the room full of stone pillars and enter the cave.
 		</value>
 	</entry>
 	<entry>
@@ -679,7 +679,7 @@
 			COLEUS: The sand here is rising, so you must be cautious but swift.
 		</key>
 		<value>
-			COLEUS: The sand here is rising, so you must be cautious but swift.
+			Caliper: There are cherry blossoms here, but be careful.
 		</value>
 	</entry>
 	<entry>
@@ -687,7 +687,7 @@
 			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
 		</key>
 		<value>
-			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
+			Caliper: Be careful not to jump forward. The bridge Malver had built was simple but not very strong.
 		</value>
 	</entry>
 	<entry>
@@ -695,7 +695,7 @@
 			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
 		</key>
 		<value>
-			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
+			Colossus: Explore hidden passages behind the sand as you walk. Follow and you'll get a job.
 		</value>
 	</entry>
 	<entry>
@@ -703,7 +703,7 @@
 			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
 		</key>
 		<value>
-			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
+			Hill: Good! Short walk to the hospital. You can rest there. Hurry before the sand arrives!
 		</value>
 	</entry>
 	<entry>
@@ -711,7 +711,7 @@
 			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
 		</key>
 		<value>
-			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
+			Malor: Don't follow this trap to the end! (Colleus, if we do this, I can see how bad your future will be)
 		</value>
 	</entry>
 	<entry>
@@ -719,7 +719,7 @@
 			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
 		</key>
 		<value>
-			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
+			Anna: Note: This article will walk you through the process. Fill up the oil tank (I won't say how far or how deep the tank is), but don't forget, because this place is invisible under the &lt;color=lightblue&gt;sea&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -727,7 +727,7 @@
 			ANNONA: Refill your air supply tank and return quickly.
 		</key>
 		<value>
-			ANNONA: Refill your air supply tank and return quickly.
+			Source: Quickly refill your cold storage.
 		</value>
 	</entry>
 	<entry>
@@ -735,7 +735,7 @@
 			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
 		</key>
 		<value>
-			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
+			RHUUS: Come on, my friend: there's no reason.
 		</value>
 	</entry>
 	<entry>
@@ -743,784 +743,784 @@
 			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
 		</key>
 		<value>
-			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
+			RHUS: These are beautiful treasures and you will soon be waiting for them.
 		</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: The sands go to and fro,</key>
-		<value>SOLANUM: The sands go to and fro,</value>
+		<value>Solanaceae nigra: Sand comes and goes.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Reversing their swift flow.</key>
-		<value>SOLANUM: Reversing their swift flow.</value>
+		<value>Solana: Change your room.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: If you’re inside</key>
-		<value>SOLANUM: If you’re inside</value>
+		<value>Solanus: If so.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: When turns the tide,</key>
-		<value>SOLANUM: When turns the tide,</value>
+		<value>Solanaceae: When everything changes.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Then skyward you should go.</key>
-		<value>SOLANUM: Then skyward you should go.</value>
+		<value>Solanis: Now to heaven.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Who was it when we last quit:</key>
-		<value>SOLANUM: Who was it when we last quit:</value>
+		<value>Solanius: Deadline?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me</key>
-		<value>SOLANUM: Me</value>
+		<value>Solina: Yes</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Me</key>
-		<value>LAEVI: Me</value>
+		<value>Left: Yes</value>
 	</entry>
 	<entry>
 		<key>ILEX: I was</key>
-		<value>ILEX: I was</value>
+		<value>it's not me</value>
 	</entry>
 	<entry>
 		<key>ILEX: Me again</key>
-		<value>ILEX: Me again</value>
+		<value>Holly: I'm back.</value>
 	</entry>
 	<entry>
 		<key>LAMI: Me!</key>
-		<value>LAMI: Me!</value>
+		<value>Remigius: Yes!</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me_test</key>
-		<value>SOLANUM: Me</value>
+		<value>Solina: Yes</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me_test2</key>
-		<value>SOLANUM: Me</value>
+		<value>Solina: Yes</value>
 	</entry>
 	<entry>
 		<key>LAMI: Me</key>
-		<value>LAMI: Me</value>
+		<value>Remigius:</value>
 	</entry>
 	<entry>
 		<key>TAGET: It was me</key>
-		<value>TAGET: It was me</value>
+		<value>Teddy: I am.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me_test3</key>
-		<value>SOLANUM: Me</value>
+		<value>Solina: Yes</value>
 	</entry>
 	<entry>
 		<key>ILEX: I was_test</key>
-		<value>ILEX: I was</value>
+		<value>it's not me</value>
 	</entry>
 	<entry>
 		<key>TAGET: Me again</key>
-		<value>TAGET: Me again</value>
+		<value>Theme: I'm back.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Me_test</key>
-		<value>LAEVI: Me</value>
+		<value>Left: Yes</value>
 	</entry>
 	<entry>
 		<key>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</key>
-		<value>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</value>
+		<value>B: Come on, I have a hard lesson for you. The &lt;color=lightblue&gt;star&lt;/color&gt; should be close. I think it's worse than we think.</value>
 	</entry>
 	<entry>
 		<key>PYE: Clary, can you hear us?</key>
-		<value>PYE: Clary, can you hear us?</value>
+		<value>B: Clary, did you hear that?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</key>
-		<value>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</value>
+		<value>Kelly: Yes, but you have a weak voice. I'm afraid he might go to the desert.</value>
 	</entry>
 	<entry>
 		<key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
-		<value>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</value>
+		<value>Poke: Go, Clary. We will contact you when we know what to read!</value>
 	</entry>
 	<entry>
 		<key>CLARY: I understand, but... Be cautious, both of you.</key>
-		<value>CLARY: I understand, but... Be cautious, both of you.</value>
+		<value>Clary: I know, but look at these two.</value>
 	</entry>
 	<entry>
 		<key>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</key>
-		<value>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</value>
+		<value>Puke: The shape of the stone circle here is a powerful reading... No, there is a well between the stones. I see something strange.</value>
 	</entry>
 	<entry>
 		<key>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</key>
-		<value>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</value>
+		<value>Pi: The stone that carries our energy. reading; &lt;i&gt;Millions&lt;/i&gt; were killed.</value>
 	</entry>
 	<entry>
 		<key>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</key>
-		<value>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</value>
+		<value>Puke: Second, I don't think we should know. In my experience, communication is very important.</value>
 	</entry>
 	<entry>
 		<key>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</key>
-		<value>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</value>
+		<value>B: I've never seen the box before, but it's there. This time is not always a problem.</value>
 	</entry>
 	<entry>
 		<key>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</key>
-		<value>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</value>
+		<value>Dirty: ... pancakes. It is true that this rock is unstable, but it is not stable. The story is sad. Check out this great tutorial. I haven't seen &lt;i&gt;anything&lt;/i&gt; posted before! &lt;i&gt;Why&lt;/i&gt;?</value>
 	</entry>
 	<entry>
 		<key>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</key>
-		<value>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</value>
+		<value>B: This thing is bigger than me. If the stone is cut, the poison inside will quickly spread and quickly contaminate the star. As the &lt;color=lightblue&gt;star&lt;/color&gt; gets closer to the &lt;color=lightblue&gt;star&lt;/color&gt;, the pressure increases...</value>
 	</entry>
 	<entry>
 		<key>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</key>
-		<value>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</value>
+		<value>Second: Get back in the car! We tell our friends that we have a problem. Grab your gun and run!</value>
 	</entry>
 	<entry>
 		<key>POKE: What are you doing, Pye?!</key>
-		<value>POKE: What are you doing, Pye?!</value>
+		<value>Puki: What are you doing son? !</value>
 	</entry>
 	<entry>
 		<key>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</key>
-		<value>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</value>
+		<value>Bee : If we learn something new, our life will be better. I will read more here. teaching others; They may be able to create obstacles. ...Get it &lt;i&gt;now&lt;/i&gt;!</value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: I fear our situation may be dire:
 		</key>
 		<value>
-			CLARY: I fear our situation may be dire:
+			Kelly: I'm afraid we're going to get into trouble.
 		</value>
 	</entry>
 	<entry>
 		<key>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-		<value>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+		<value>Clary: B, Puck, I'm going to destroy this imaginary &lt;color=lightblue&gt;star&lt;/color&gt; behind the &lt;color=lightblue&gt;comet&lt;/color&gt;. Our &lt;color=orange&gt;ship&lt;/color&gt; has heard the announcement of alien forces on Earth.</value>
 	</entry>
 	<entry>
 		<key>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</key>
-		<value>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</value>
+		<value>Clary: Pee and Poke Find the sunrise and continue to see where the lesson comes from.</value>
 	</entry>
 	<entry>
 		<key>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</key>
-		<value>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</value>
+		<value>Clary: But Pi and my sister died a long time ago. They never saw each other because they were sitting on the floor.</value>
 	</entry>
 	<entry>
 		<key>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</key>
-		<value>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</value>
+		<value>Lemos: Did you leave me with them in the &lt;color=orange&gt;Bay&lt;/color&gt;? I want to follow the protocol but I don't know what to do if it doesn't work...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke... Pye... Come back to me safely, my friends.</key>
-		<value>CLARY: Poke... Pye... Come back to me safely, my friends.</value>
+		<value>Clary: Pack up ... hurry up ... relax, honey.</value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
 		</key>
 		<value>
-			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
+			Flowers: May our &lt;color=lightblue&gt;home&lt;/color&gt; live like a &lt;color=lightblue&gt;cup&lt;/color&gt;. If it's too hot, I wear a &lt;color=lightblue&gt;hat&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
 		<key>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</key>
-		<value>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</value>
+		<value>Phuke: But no one can talk at &lt;color=orange&gt;home&lt;/color&gt; like the four.</value>
 	</entry>
 	<entry>
 		<key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
-		<value>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</value>
+		<value>OK: Yes, but it's hard to find a &lt;color=lightblue&gt;star&lt;/color&gt; who doesn't have a place where people remember him. We can't live on the dark side of a &lt;color=lightblue&gt;comet&lt;/color&gt;...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</key>
-		<value>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</value>
+		<value>Doti: Let's say one person is sitting in a &lt;color=orange&gt;stationary car&lt;/color&gt; and looking at the other.</value>
 	</entry>
 	<entry>
 		<key>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</key>
-		<value>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</value>
+		<value>Second: I think it's true, Clary. If you don't want to wait here, Bock has the answer.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;The entrance is 2b&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 1: the &lt;color=lightblue&gt;sun&lt;/color&gt;</key>
-		<value>ALIGNMENT 1: the &lt;color=lightblue&gt;sun&lt;/color&gt;</value>
+		<value>Example 1: &lt;color=lightblue&gt;Sol&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 2: the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;</key>
-		<value>ALIGNMENT 2: the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;</value>
+		<value>Figure 2: &lt;color=lightblue&gt;Two hours&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 3: &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;</key>
-		<value>ALIGNMENT 3: &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;</value>
+		<value>Figure 3: &lt;color=lightblue&gt;Tree&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 4: &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;</key>
-		<value>ALIGNMENT 4: &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;</value>
+		<value>Example 4: &lt;color=lightblue&gt;There is no court.&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 5: &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt;</key>
-		<value>ALIGNMENT 5: &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt;</value>
+		<value>Tip 5: &lt;color=lightblue&gt;Great depth&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>Self</key>
-		<value>Self</value>
+		<value>he</value>
 	</entry>
 	<entry>
 		<key>Start...Whoa.</key>
-		<value>...Whoa.</value>
+		<value>... that's good</value>
 	</entry>
 	<entry>
 		<key>SelfStartWhat the heck happened?</key>
-		<value>What the heck happened?</value>
+		<value>What is the end?</value>
 	</entry>
 	<entry>
 		<key>SelfStartThis is the greatest day of my life!</key>
-		<value>This is the greatest day of my life!</value>
+		<value>Today is the biggest day of my life!</value>
 	</entry>
 	<entry>
 		<key>SelfStartAre you me from the last loop?</key>
-		<value>Are you me from the last loop?</value>
+		<value>Are you in the last stage?</value>
 	</entry>
 	<entry>
 		<key>SelfStartThis got weird in a hurry.</key>
-		<value>This got weird in a hurry.</value>
+		<value>You are calm.</value>
 	</entry>
 	<entry>
 		<key>SelfStartAAAAAAAAAAHHHH!</key>
-		<value>AAAAAAAAAAHHHH!</value>
+		<value>No!</value>
 	</entry>
 	<entry>
 		<key>Confused1If you're me, then I'm as confused as you are.</key>
-		<value>If you're me, then I'm as confused as you are.</value>
+		<value>If it were me I would be as confused as you.</value>
 	</entry>
 	<entry>
 		<key>SelfConfused1Do you think we have the same memories?</key>
-		<value>Do you think we have the same memories?</value>
+		<value>Think you have a memory?</value>
 	</entry>
 	<entry>
 		<key>SelfConfused1Do you think it's okay there's two of us?</key>
-		<value>Do you think it's okay there's two of us?</value>
+		<value>Do you think it's good for two?</value>
 	</entry>
 	<entry>
 		<key>Memories0BGood question. Let's see...</key>
-		<value>Good question. Let's see...</value>
+		<value>That was a good question. And...</value>
 	</entry>
 	<entry>
 		<key>Memories1I remember all the time loops, including last loop when I jumped into the black hole in here. What about you?</key>
-		<value>I remember all the time loops, including last loop when I jumped into the black hole in here. What about you?</value>
+		<value>I still remember parts of it, especially the last part when I jumped into that dark hole. what you have what you have</value>
 	</entry>
 	<entry>
 		<key>SelfMemories1Me, too. Sounds like our memories diverge at the start of this loop.</key>
-		<value>Me, too. Sounds like our memories diverge at the start of this loop.</value>
+		<value>me too. Our memories of the first party are very different.</value>
 	</entry>
 	<entry>
 		<key>SelfMemories1Same, except I woke up at the campfire, like always.</key>
-		<value>Same, except I woke up at the campfire, like always.</value>
+		<value>Once, outside of normal hours</value>
 	</entry>
 	<entry>
 		<key>WokeUp1BIt makes sense one of the two versions of us would start at the campfire as usual.</key>
-		<value>It makes sense one of the two versions of us would start at the campfire as usual.</value>
+		<value>The camp was set up on both sides.</value>
 	</entry>
 	<entry>
 		<key>WokeUp1CMakes sense to me, seeing how jumping into the black hole is definitely what created two of us.</key>
-		<value>Makes sense to me, seeing how jumping into the black hole is definitely what created two of us.</value>
+		<value>It's like two people jumping into a black hole.</value>
 	</entry>
 	<entry>
 		<key>Excited1Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</key>
-		<value>Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</value>
+		<value>We are all old, but who is an &lt;i&gt;old man&lt;/i&gt;? Do you know how you are?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited1Are you talking about the day I...?</key>
-		<value>Are you talking about the day I...?</value>
+		<value>Do you talk to me during the day?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited1Oh, right. That one's probably still the greatest.</key>
-		<value>Oh, right. That one's probably still the greatest.</value>
+		<value>This is probably the most important thing.</value>
 	</entry>
 	<entry>
 		<key>Excited2AWhat? No! No, I'm talking about the &lt;i&gt;other&lt;/i&gt; one.</key>
-		<value>What? No! No, I'm talking about the &lt;i&gt;other&lt;/i&gt; one.</value>
+		<value>Why not! No, I mean it the &lt;i&gt;other&lt;/i&gt; way around.</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2AOH. Yep, that makes way more sense.</key>
-		<value>OH. Yep, that makes way more sense.</value>
+		<value>Yes, this program is a program.</value>
 	</entry>
 	<entry>
 		<key>Excited2BHaha, I know, right? But today is probably the next greatest day of our life after that one.</key>
-		<value>Haha, I know, right? But today is probably the next greatest day of our life after that one.</value>
+		<value>Did I understand correctly? But today is the most important day in our life.</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2BWait, can you read my mind?</key>
-		<value>Wait, can you read my mind?</value>
+		<value>Wait can you read my mind?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2BWhat other memories do you have?</key>
-		<value>What other memories do you have?</value>
+		<value>What do you remember?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2BThink it's okay there's two of us?</key>
-		<value>Think it's okay there's two of us?</value>
+		<value>Do you think both are good?</value>
 	</entry>
 	<entry>
 		<key>Excited3BDefinitely no. I just have the same memories as you. ...Except for this loop, I mean.</key>
-		<value>Definitely no. I just have the same memories as you. ...Except for this loop, I mean.</value>
+		<value>No, besides them, I remember you</value>
 	</entry>
 	<entry>
 		<key>Excited3BI started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</key>
-		<value>I started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</value>
+		<value>Before jumping into the black hole, I entered the white hole and participated in the Ash Twin Project.</value>
 	</entry>
 	<entry>
 		<key>Excited3AYeah, now you've got it. That was an incredible day.</key>
-		<value>Yeah, now you've got it. That was an incredible day.</value>
+		<value>That's for now. It was a beautiful day.</value>
 	</entry>
 	<entry>
 		<key>Excited3ABut today is probably the next greatest day of our life after that one.</key>
-		<value>But today is probably the next greatest day of our life after that one.</value>
+		<value>But today is another big day in our lives.</value>
 	</entry>
 	<entry>
 		<key>SelfExcited3AWait, can you read my mind?</key>
-		<value>Wait, can you read my mind?</value>
+		<value>Wait can you read my mind?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited3AWhat other memories do you have?</key>
-		<value>What other memories do you have?</value>
+		<value>What do you remember?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited3AThink it's okay there's two of us?</key>
-		<value>Think it's okay there's two of us?</value>
+		<value>Do you think both are good?</value>
 	</entry>
 	<entry>
 		<key>Memories0ALet's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</key>
-		<value>Let's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</value>
+		<value>Let's see... our memory is the same as before we all went into space and before we see other changes over time.</value>
 	</entry>
 	<entry>
 		<key>Looped1I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</key>
-		<value>I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</value>
+		<value>I think I'm going to start another Ashes Twin Project.</value>
 	</entry>
 	<entry>
 		<key>SelfLooped1I started at the campfire like usual.</key>
-		<value>I started at the campfire like usual.</value>
+		<value>Sacks as usual.</value>
 	</entry>
 	<entry>
 		<key>SelfLooped1What do you remember from before this loop?</key>
-		<value>What do you remember from before this loop?</value>
+		<value>What did you remember before?</value>
 	</entry>
 	<entry>
 		<key>Wrong1Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</key>
-		<value>Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</value>
+		<value>Of course, this cannot be the life Nomai could have foreseen when he created the Ash Twins.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong1I wonder if we have the same memories.</key>
-		<value>I wonder if we have the same memories.</value>
+		<value>Or if the memory is the same?</value>
 	</entry>
 	<entry>
 		<key>SelfWrong1I wonder if there being two of us screws anything up.</key>
-		<value>I wonder if there being two of us screws anything up.</value>
+		<value>I wonder if it will cooperate?</value>
 	</entry>
 	<entry>
 		<key>Wrong2AWell, we're talking to each other and nothing's exploded yet.</key>
-		<value>Well, we're talking to each other and nothing's exploded yet.</value>
+		<value>No, we are not talking about anything.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2AYeah, it's a pretty novel experience.</key>
-		<value>Yeah, it's a pretty novel experience.</value>
+		<value>It is new.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2AGossan always says that means the date's going well.</key>
-		<value>Gossan always says that means the date's going well.</value>
+		<value>Gu San said it was a good day.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2AMaybe the universe doesn't mind two of us.</key>
-		<value>Maybe the universe doesn't mind two of us.</value>
+		<value>Maurice doesn't care.</value>
 	</entry>
 	<entry>
 		<key>Wrong2BWell, we're talking to each other and nothing's exploded yet.</key>
-		<value>Well, we're talking to each other and nothing's exploded yet.</value>
+		<value>No, we are not talking about anything.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2BThat seems positive.</key>
-		<value>That seems positive.</value>
+		<value>it seems good.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2BYeah, it's a pretty novel experience.</key>
-		<value>Yeah, it's a pretty novel experience.</value>
+		<value>It is new.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2BGossan always says that means the date's going well.</key>
-		<value>Gossan always says that means the date's going well.</value>
+		<value>Gu San said it was a good day.</value>
 	</entry>
 	<entry>
 		<key>Wrong3AYeah, but it's Slate's definition of a boring date. Makes sense Gossan and Slate never dated.</key>
-		<value>Yeah, but it's Slate's definition of a boring date. Makes sense Gossan and Slate never dated.</value>
+		<value>But I like the explanation. As it turns out, Goozen has nothing to do with Slate.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3AThat and the whole mishap with Gossan's eye.</key>
-		<value>That and the whole mishap with Gossan's eye.</value>
+		<value>It is like lying at Goshen.</value>
 	</entry>
 	<entry>
 		<key>Wrong3BRight? It's kind of nice!</key>
-		<value>Right? It's kind of nice!</value>
+		<value>Is it really that good? good!</value>
 	</entry>
 	<entry>
 		<key>Wrong3CHopefully not. Besides, an extra version of us is definitely better than if we'd created an extra anglerfish or something.</key>
-		<value>Hopefully not. Besides, an extra version of us is definitely better than if we'd created an extra anglerfish or something.</value>
+		<value>I don't believe it. Most of our products are made better than outside the monastery or elsewhere.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3CGEH.</key>
-		<value>GEH.</value>
+		<value>network</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3CThat's setting the bar pretty low.</key>
-		<value>That's setting the bar pretty low.</value>
+		<value>This site is small.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3CAgreed. We're charming and have fewer teeth.</key>
-		<value>Agreed. We're charming and have fewer teeth.</value>
+		<value>I agree. The teeth are beautiful and small.</value>
 	</entry>
 	<entry>
 		<key>Gossan1Oof. Yes. The eye thing.</key>
-		<value>Oof. Yes. The eye thing.</value>
+		<value>The best training course</value>
 	</entry>
 	<entry>
 		<key>Gossan1Yeah, that's... yeah.</key>
-		<value>Yeah, that's... yeah.</value>
+		<value>here here.</value>
 	</entry>
 	<entry>
 		<key>SelfGossan1Yep.</key>
-		<value>Yep.</value>
+		<value>Yes</value>
 	</entry>
 	<entry>
 		<key>SelfGossan1Sure is.</key>
-		<value>Sure is.</value>
+		<value>to correct</value>
 	</entry>
 	<entry>
 		<key>SelfGossan1I very much do not want to discuss that.</key>
-		<value>I very much do not want to discuss that.</value>
+		<value>I don't want to talk</value>
 	</entry>
 	<entry>
 		<key>Wrong4AMy thoughts exactly.</key>
-		<value>My thoughts exactly.</value>
+		<value>What do you want me to say?</value>
 	</entry>
 	<entry>
 		<key>Wrong4BThat's not just setting the bar low, that's setting it at tripping height.</key>
-		<value>That's not just setting the bar low, that's setting it at tripping height.</value>
+		<value>He didn't just lower the bar, he raised it.</value>
 	</entry>
 	<entry>
 		<key>Wrong4CThat probably counts for something.</key>
-		<value>That probably counts for something.</value>
+		<value>I think there is something.</value>
 	</entry>
 	<entry>
 		<key>Segue1AUh huh.</key>
-		<value>Uh huh.</value>
+		<value>Europe</value>
 	</entry>
 	<entry>
 		<key>Segue1BNor do I. Hasty segue?</key>
-		<value>Nor do I. Hasty segue?</value>
+		<value>why are you in a hurry</value>
 	</entry>
 	<entry>
 		<key>SelfSegue1BHasty segue.</key>
-		<value>Hasty segue.</value>
+		<value>Keep writing.</value>
 	</entry>
 	<entry>
 		<key>Segue2AQuickly changing the subject, you know how I - er, &lt;i&gt;we&lt;/i&gt; - jumped into the black hole that opened up at the end of the last time loop?</key>
-		<value>Quickly changing the subject, you know how I - er, &lt;i&gt;we&lt;/i&gt; - jumped into the black hole that opened up at the end of the last time loop?</value>
+		<value>Quickly changing location, do you know how I &lt;i&gt;entered&lt;/i&gt; the last open black hole?</value>
 	</entry>
 	<entry>
 		<key>Segue2AWhat do you think would happen if you don't jump in this time?</key>
-		<value>What do you think would happen if you don't jump in this time?</value>
+		<value>How would you feel if he didn't run away now?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2AHuh. That's a good question.</key>
-		<value>Huh. That's a good question.</value>
+		<value>Well, that's a very good question.</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2AIf I don't, then where did you come from?</key>
-		<value>If I don't, then where did you come from?</value>
+		<value>if not, where did you come from?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2AGuess we'll find out!</key>
-		<value>Guess we'll find out!</value>
+		<value>I hope you find it!</value>
 	</entry>
 	<entry>
 		<key>Segue2BSo hey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>So hey, what do you think happens if you don't jump into the black hole again at the end of this loop?</value>
+		<value>How would you feel if you didn't return to the black hole of this machine?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2BHuh. That's a good question.</key>
-		<value>Huh. That's a good question.</value>
+		<value>Well, that's a very good question.</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2BIf I don't, then where did you come from?</key>
-		<value>If I don't, then where did you come from?</value>
+		<value>if not, where did you come from?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2BGuess we'll find out!</key>
-		<value>Guess we'll find out!</value>
+		<value>I hope you find it!</value>
 	</entry>
 	<entry>
 		<key>Merge1BI think so, at least. Although here's a question for you — what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>I think so, at least. Although here's a question for you — what do you think happens if you don't jump into the black hole again at the end of this loop?</value>
+		<value>I really thought about it. But here's the question - what would you do if you didn't go back to the black hole at the end of the machine?</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BHuh. That's a good question.</key>
-		<value>Huh. That's a good question.</value>
+		<value>Well, that's a very good question.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BIf I don't, then where did you come from?</key>
-		<value>If I don't, then where did you come from?</value>
+		<value>if not, where did you come from?</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BGuess we'll find out!</key>
-		<value>Guess we'll find out!</value>
+		<value>I hope you find it!</value>
 	</entry>
 	<entry>
 		<key>MergeHey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Hey, what do you think happens if you don't jump into the black hole again at the end of this loop?</value>
+		<value>If you jumped into a black hole and destroyed the opposite, what are you waiting for?</value>
 	</entry>
 	<entry>
 		<key>SelfMergeHuh. That's a good question.</key>
-		<value>Huh. That's a good question.</value>
+		<value>Well, that's a very good question.</value>
 	</entry>
 	<entry>
 		<key>SelfMergeIf I don't, then where did you come from?</key>
-		<value>If I don't, then where did you come from?</value>
+		<value>if not, then where did you come from?</value>
 	</entry>
 	<entry>
 		<key>SelfMergeGuess we'll find out!</key>
-		<value>Guess we'll find out!</value>
+		<value>I hope you find it!</value>
 	</entry>
 	<entry>
 		<key>Merge2AIt's something I've been wondering about. We're in thoroughly uncharted territory at this point.</key>
-		<value>It's something I've been wondering about. We're in thoroughly uncharted territory at this point.</value>
+		<value>I got up. We are in unknown territory.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2AUnlike all the other time manipulation we've experienced.</key>
-		<value>Unlike all the other time manipulation we've experienced.</value>
+		<value>Unlike other methods, they are tested.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2ATruly, we are the Feldspar of weird time stuff.</key>
-		<value>Truly, we are the Feldspar of weird time stuff.</value>
+		<value>No, leaving her.</value>
 	</entry>
 	<entry>
 		<key>Merge2BThat's a good point.</key>
-		<value>That's a good point.</value>
+		<value>good</value>
 	</entry>
 	<entry>
 		<key>Merge2BI mean, I &lt;i&gt;feel&lt;/i&gt; as real as ever, so I don't think I'm a figment of your imagination or anything like that.</key>
-		<value>I mean, I &lt;i&gt;feel&lt;/i&gt; as real as ever, so I don't think I'm a figment of your imagination or anything like that.</value>
+		<value>I say the same thing, I can't &lt;i&gt;see&lt;/i&gt; you or anything.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2BThat's just what a figment of my imagination would say!</key>
-		<value>That's just what a figment of my imagination would say!</value>
+		<value>That's all I can think of!</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2BI'm no expert, but you seem pretty real to me.</key>
-		<value>I'm no expert, but you seem pretty real to me.</value>
+		<value>I don't know, but you are right.</value>
 	</entry>
 	<entry>
 		<key>Merge2CI guess so!</key>
-		<value>I guess so!</value>
+		<value>I believe!</value>
 	</entry>
 	<entry>
 		<key>Merge3AOh geez, Feldspar would just use the time loop to try increasingly outlandish stunts, wouldn't they. Might be a good thing they aren't aware of it.</key>
-		<value>Oh geez, Feldspar would just use the time loop to try increasingly outlandish stunts, wouldn't they. Might be a good thing they aren't aware of it.</value>
+		<value>Well, feldspar has some common uses, right? Maybe it's a good thing they don't know.</value>
 	</entry>
 	<entry>
 		<key>RealThanks. You seem real to me, too, so... I guess there's just two of us now!</key>
-		<value>Thanks. You seem real to me, too, so... I guess there's just two of us now!</value>
+		<value>Thanks, I agreed, so soon…hope!</value>
 	</entry>
 	<entry>
 		<key>SassAre you being sassy? You can't sass me! You &lt;i&gt;are&lt;/i&gt; me!</key>
-		<value>Are you being sassy? You can't sass me! You &lt;i&gt;are&lt;/i&gt; me!</value>
+		<value>You know &lt;i&gt;I&lt;/i&gt; can't be scared! You!</value>
 	</entry>
 	<entry>
 		<key>SassDoes kind of prove we're the same person, though.</key>
-		<value>Does kind of prove we're the same person, though.</value>
+		<value>So we are one.</value>
 	</entry>
 	<entry>
 		<key>IntroEndAt any rate, it's been good talking to you, me. &lt;Pause/&gt; ...Incredibly strange, but good.</key>
-		<value>At any rate, it's been good talking to you, me. &lt;Pause/&gt; ...Incredibly strange, but good.</value>
+		<value>Anyway, I'm glad I told you. &lt;Pause/&gt; ...but good luck.</value>
 	</entry>
 	<entry>
 		<key>IntroEndSee you around!</key>
-		<value>See you around!</value>
+		<value>until they meet again!</value>
 	</entry>
 	<entry>
 		<key>Panic1What have we done?! Jumping into that black hole was a &lt;i&gt;terrible&lt;/i&gt; idea!</key>
-		<value>What have we done?! Jumping into that black hole was a &lt;i&gt;terrible&lt;/i&gt; idea!</value>
+		<value>What a &lt;i&gt;bad&lt;/i&gt; idea we made by jumping into this black hole!</value>
 	</entry>
 	<entry>
 		<key>SelfPanic1Yes. Yes, it was.</key>
-		<value>Yes. Yes, it was.</value>
+		<value>Yes Yes Yes</value>
 	</entry>
 	<entry>
 		<key>SelfPanic1I needed to know what would happen.</key>
-		<value>I needed to know what would happen.</value>
+		<value>I want to see what happens next</value>
 	</entry>
 	<entry>
 		<key>SelfPanic1AAAAAAAAAAAAHHH!</key>
-		<value>AAAAAAAAAAAAHHH!</value>
+		<value>ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</value>
 	</entry>
 	<entry>
 		<key>PanicRedirect1...Okay. Okay, I'm calm.</key>
-		<value>...Okay. Okay, I'm calm.</value>
+		<value>…… This is good. very calm</value>
 	</entry>
 	<entry>
 		<key>Panic2AAAAAAAAAAAAHHH!</key>
-		<value>AAAAAAAAAAAAHHH!</value>
+		<value>ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</value>
 	</entry>
 	<entry>
 		<key>SelfPanic2Just needed to get that out of my system.</key>
-		<value>Just needed to get that out of my system.</value>
+		<value>I want it to be my system</value>
 	</entry>
 	<entry>
 		<key>SelfPanic2AAAAAAAAAAAAAAAHHH!</key>
-		<value>AAAAAAAAAAAAAAAHHH!</value>
+		<value>ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</value>
 	</entry>
 	<entry>
 		<key>PanicRedirect2AAAAAAAAHHHhhhokay, I'm done screaming, too.</key>
-		<value>AAAAAAAAHHHhhhokay, I'm done screaming, too.</value>
+		<value>Ahhhhh I cried too much.</value>
 	</entry>
 	<entry>
 		<key>Panic3AAAAAAAAAAAAAAAHHH! &lt;b&gt;AAAAAAAAAAAAAAAAAAAHHH!&lt;/b&gt;</key>
-		<value>AAAAAAAAAAAAAAAHHH! &lt;b&gt;AAAAAAAAAAAAAAAAAAAHHH!&lt;/b&gt;</value>
+		<value>Ahhhhhhhhh &lt;b&gt;ahhhhhhhhh&lt;/b&gt;</value>
 	</entry>
 	<entry>
 		<key>SelfPanic3AAAAAaaaAAAAAaAAaaaaaHHH!</key>
-		<value>AAAAAaaaAAAAAaAAaaaaaHHH!</value>
+		<value>ahhh!</value>
 	</entry>
 	<entry>
 		<key>SelfPanic3WAAAAAAAAAAAUUUUUUUUUUGH!</key>
-		<value>WAAAAAAAAAAAUUUUUUUUUUGH!</value>
+		<value>Hi!</value>
 	</entry>
 	<entry>
 		<key>Panic4AAAA&lt;b&gt;AAaaaAA&lt;/b&gt;AAAaAAaaa&lt;b&gt;aaAAAHHH&lt;/b&gt;!</key>
-		<value>AAA&lt;b&gt;AAaaaAA&lt;/b&gt;AAAaAAaaa&lt;b&gt;aaAAAHHH&lt;/b&gt;!</value>
+		<value>a&lt;b&gt;h&lt;/b&gt;h&lt;b&gt;h&lt;/b&gt;!</value>
 	</entry>
 	<entry>
 		<key>SelfPanic4A&lt;i&gt;AAAAAAAAAAAAAAAAAUGHHHH!&lt;/i&gt;</key>
-		<value>&lt;i&gt;AAAAAAAAAAAAAAAAAUGHHHH!&lt;/i&gt;</value>
+		<value>&lt;i&gt;ah ah ah ah!&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>SelfPanic4AAAAAAAaaah... hhh... ha.</key>
-		<value>AAAAAAaaah... hhh... ha.</value>
+		<value>Oh yes, yes, yes.</value>
 	</entry>
 	<entry>
 		<key>Panic4B&lt;b&gt;WAAAAAAAAAAAAAAAAAUUUUUUUUUUGH!&lt;/b&gt;</key>
-		<value>&lt;b&gt;WAAAAAAAAAAAAAAAAAUUUUUUUUUUGH!&lt;/b&gt;</value>
+		<value>&lt;b&gt;Hi!&lt;/b&gt;</value>
 	</entry>
 	<entry>
 		<key>SelfPanic4B&lt;i&gt;WAAAAAAAAAAAAAAURGLHHH!&lt;/i&gt;</key>
-		<value>&lt;i&gt;WAAAAAAAAAAAAAAURGLHHH!&lt;/i&gt;</value>
+		<value>&lt;i&gt;Hi!&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>SelfPanic4BAAAAAAaaah... hhh... ha.</key>
-		<value>AAAAAAaaah... hhh... ha.</value>
+		<value>Oh yes, yes, yes.</value>
 	</entry>
 	<entry>
 		<key>Panic5AAAAAAAHHHhhh... (pant, pant)&lt;Pause/&gt;...</key>
-		<value>AAAAAAAHHHhhh... (pant, pant)&lt;Pause/&gt;...</value>
+        <value>આહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહહ&lt;Pause/&gt;...</value>
 	</entry>
 	<entry>
 		<key>SelfPanic5You good?</key>
-		<value>You good?</value>
+		<value>Are you ready</value>
 	</entry>
 	<entry>
 		<key>SelfPanic5...AAAAAAH! AAAAAAAAAAAAAHHH!!</key>
-		<value>...AAAAAAH! AAAAAAAAAAAAAHHH!!</value>
+		<value>... Ah ah ah ah ah ah ah ah ah ah ah ah!</value>
 	</entry>
 	<entry>
 		<key>PanicRedirect3...I'm good.</key>
-		<value>...I'm good.</value>
+		<value>...I'm fine.</value>
 	</entry>
 	<entry>
 		<key>Panic6&lt;size=50&gt;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHH!!&lt;/size&gt;</key>
-		<value>&lt;size=50&gt;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHH!!&lt;/size&gt;</value>
+		<value>&lt;size=50&gt;ahhh! !&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>post intro menuHey, me.</key>
-		<value>Hey, me.</value>
+		<value>Goodbye</value>
 	</entry>
 	<entry>
 		<key>Selfpost intro menuRemember leaving on our first solo trip?</key>
-		<value>Remember leaving on our first solo trip?</value>
+		<value>Do you remember your first solo trip?</value>
 	</entry>
 	<entry>
 		<key>Selfpost intro menuRemember landing our ship on the Sun Station?</key>
-		<value>Remember landing our ship on the Sun Station?</value>
+		<value>Do you remember when our ship reached the solar station?</value>
 	</entry>
 	<entry>
 		<key>should be deadYeah! That feels like ages ago.\\n\\nWe'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?</key>
-		<value>Yeah! That feels like ages ago.\\n\\nWe'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?</value>
+		<value>Yes! This is the first case.\\n\\nWe don't have time to die first. Any good ideas?</value>
 	</entry>
 	<entry>
 		<key>Selfshould be deadWeirder than there being two of us now?</key>
-		<value>Weirder than there being two of us now?</value>
+		<value>Are we all ashamed now?</value>
 	</entry>
 	<entry>
 		<key>Selfshould be deadWe were disasterously unprepared for space.</key>
-		<value>We were disasterously unprepared for space.</value>
+		<value>We are not ready for this situation.</value>
 	</entry>
 	<entry>
 		<key>should be dead 2bTuff was right - I AM the worst.</key>
-		<value>Tuff was right - I AM the worst.</value>
+		<value>Frankly, I'm confused.</value>
 	</entry>
 	<entry>
 		<key>should be dead 2aWow, I guess I AM pretty sarcastic.</key>
-		<value>Wow, I guess I AM pretty sarcastic.</value>
+		<value>Oh, I think I was joking</value>
 	</entry>
 	<entry>
 		<key>should be dead 3It's unsettling to think about. Especially when you remember even Riebeck survived their first launch.</key>
-		<value>It's unsettling to think about. Especially when you remember even Riebeck survived their first launch.</value>
+		<value>it does not work. Especially when you remember that Rebecca survived the first launch.</value>
 	</entry>
 	<entry>
 		<key>sun stationYES. I can’t believe no one was around to see that.\\n\\nWe’re probably the best pilot in the space program by now.</key>
-		<value>YES. I can’t believe no one was around to see that.\\n\\nWe’re probably the best pilot in the space program by now.</value>
+		<value>Yes. I can't believe no one saw that we could be the best pilots in the computer space.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationYeah, but we’ve also died more than anyone else.</key>
-		<value>Yeah, but we’ve also died more than anyone else.</value>
+		<value>But we suffer worse than others.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationNot that anyone else knows it.</key>
-		<value>Not that anyone else knows it.</value>
+		<value>Nobody knows.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationI needed to brag about that to someone a little.</key>
-		<value>I needed to brag about that to someone a little.</value>
+		<value>I want people to be proud of me.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationDid that technically happen, &lt;i&gt;with&lt;/i&gt; how the time loop works?</key>
-		<value>Did that technically happen, &lt;i&gt;with&lt;/i&gt; how the time loop works?</value>
+		<value>How does this method &lt;i&gt;work&lt;/i&gt; over time?</value>
 	</entry>
 	<entry>
 		<key>sun station 2That’s true. &lt;pause&gt; I’m not sure how to factor that in.</key>
-		<value>That’s true. &lt;pause&gt; I’m not sure how to factor that in.</value>
+		<value>&lt;pause&gt;I don't know how to approach this.</value>
 	</entry>
 	<entry>
 		<key>sun station 3Still, it’s kind of nice to get to say it out loud. Even if it’s just to ourself.</key>
-		<value>Still, it’s kind of nice to get to say it out loud. Even if it’s just to ourself.</value>
+		<value>But that's well said. Or just us</value>
 	</entry>
 	<entry>
 		<key>sun station 4That’s fine. It’s kind of nice to hear it said out loud.</key>
-		<value>That’s fine. It’s kind of nice to hear it said out loud.</value>
+		<value>It's good to hear him say.</value>
 	</entry>
 	<entry>
 		<key>sun station 5What? ...Oh, come on, don’t take that away from us!</key>
-		<value>What? ...Oh, come on, don’t take that away from us!</value>
+		<value>Why... take your time to bring it!</value>
 	</entry>
 	<entry>
 		<key>Selfsun station 5Just kidding, I don't care how time works.</key>
-		<value>Just kidding, I don't care how time works.</value>
+		<value>Just kidding, I don't care what time it is.</value>
 	</entry>
 	<entry>
 		<key>Selfsun station 5But given it only happened in a previous loop...</key>
-		<value>But given it only happened in a previous loop...</value>
+		<value>But that's in the last episode.</value>
 	</entry>
 	<entry>
 		<key>sun station 5aHaha, yeah, me either. &lt;pause&gt; ...Obviously.</key>
-		<value>Haha, yeah, me either. &lt;pause&gt; ...Obviously.</value>
+		<value>haha me too &lt;pause&gt;presentation....</value>
 	</entry>
 	<entry>
 		<key>sun station 5bThe worst part is we’re the same person, and you know I’m going to agree with you. (Sigh...)</key>
-		<value>The worst part is we’re the same person, and you know I’m going to agree with you. (Sigh...)</value>
+		<value>This person is very similar, you know, I agree with you. (respiratory...)</value>
 	</entry>
 	<entry>
 		<key>CLARY: Regarding the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Does each tower have to be perfectly aligned with the center of the astral body to which it’s tuned?</key>
-		<value>CLARY: Regarding the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Does each tower have to be perfectly aligned with the center of the astral body to which it’s tuned?</value>
+		<value>Clary: In &lt;color=lightblue&gt;Twin Ash&lt;/color&gt;, does every star have to meet in the middle of an open star?</value>
 	</entry>
 	<entry>
 		<key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
