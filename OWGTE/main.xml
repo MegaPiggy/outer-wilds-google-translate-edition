@@ -10665,43 +10665,45 @@
 		</key>
 		<value>
 			&lt;size=20&gt;&lt;color=orange&gt;
-			. . . . . . . . . . . . . . . WWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . .
-			. . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . .
-			. . . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . .
-			. . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . .
-			. . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . .
-			. . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . .
-			. . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . .
-			. . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . .
-			. . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . .
-			. . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . .
-			. . . .WWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . .
-			. . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . .
-			. . .WWWWWW . . . . . .WWWW . . . . . . . . . . . . .WWWW . . . . . . . .WWWWWWW . .
-			. .WWWWWWWW . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . .WWWWWWWW . .
-			. .WWWWWWWW . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . WWWWWWW . .
-			. WWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
-			. WWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
-			.WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
-			.WWWWWWWW . . . . . . .WWWW . . . . . . . . . . . . .WWWW . . . . . . . . .WWWWWW . .
-			.WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WWWWWWW . .
-			.WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WWWWWWW . .
-			.WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . .
-			.WWWWWWWW . . . . . . . . . . . . . . . . . . . .WWWWWW . . . . . . . . .WWWWWWW . .
-			. .WWWWWW . . . . . . . .WWWWWW . . . . . . . WWWWWWWWW . . . . . . . . WWWWWWW . . .
-			. .WWWWWWWW . . . . . . .WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . .WWWWWWWW . . .
-			. .WWWWWWWW . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . WWWWWWWW . . .
-			. . .WWWWWW . . . . . . . . .WWWWWWWWWWWWWWWWWW . . . . . . . . . . .WWWWWWWW . . . .
-			. . .WWWWWWWW . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . .WWWWWWWW . . . . .
-			. . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . .
-			. . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . .
-			. . . . . WWWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . .
-			. . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . .
-			. . . . . . . .WWWWWWWWWW . . . . . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . .
-			. . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . . . .
-			. . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . .
-			. . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . . .
-			. . . . . . . . . . . . . . . .WWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . .
+			. . . . . . . . . . . . . . . or ..........
+			......
+			............ website. . . . .
+			.. ... ............ website. .........
+			. . . . . ......
+			. . . . .
+			......
+			...
+			.... Wow. .......
+			.... Wow. .......
+			.... WWWWW. ......
+			... Wow. ......
+			... WWWWW. .... website. ......
+			WWW. . . . . www. . . . . . . . .
+			. WWW. WWWWWWW. . . . . . . WWWWWWWWW.....
+			. WWW. WWWWWWW. . . . . . . WWWWWWWW ...... www. .
+			WWW. WWWWWWW. . . . . . . WWW. . . . . WWW. .
+			WWW. WWWWWWW. . . . . . . WWW. . . . . www. .
+			.WWWW. WWWWWWW. . . . . . . WWW. . . . . www. .
+			.WWWW. . . . . . WW. . . . . . . . .
+			.WWWW. . . . . . . . . . . . . . . . . . . . . . .
+			.WWWW. . . . . . . . . . . . . . . . . . . . . . .
+			.WWWW. . . . . . . . . . . . . . . . . . . . . . .
+			.WWWW. . . . . . . . . . . . . . . . . . . www. .
+			. www. . . . . . www. ......Oh! . . . . . WWW. .
+			. WWW. . ...... www.
+			. WWW. . . . . . . . . . . . . . . . . . . .
+			www. . . . . . . . . . . . . . . . . . . ...
+			....WWWWWWWWW. . . . . . . WWW. . . . . . . WWW.
+			WWWWWWW. . . . . . . . . . . . . . . . . . . . ...
+			WWWWWWW. . . . . . . . . . . . . . . . . ......
+			...Oh! . . . . . . . . . . . . . . . ......
+			. . . . . . . . . . . . . . . No! ......
+			. . . . . . WWW. . . . . . . . . . .
+			....Hello! . . . . . . . . . . .
+			. . . . . . . . . . .
+			. . . . . . . . . . .
+			. . . . . . . . . . . . .
+
 			&lt;/color&gt;&lt;/size&gt;
 		</value>
 	</entry>
@@ -10737,29 +10739,29 @@
 		<value>
 			&lt;color=
 
-			LOADING...???
+			Do you agree with...? ? ?
 
 
 			&gt;&lt;/color&gt;&lt;size=20&gt;&lt;color=orange&gt;
-			WWWWWWWWWWWWWWW
-			WWWWWW          WWWWWWW
-			WWWW                   WWWWW
-			WWWW                       WWWWW
-			WWWW                           WWWW
-			WWW                             WWWW
-			WWW      WW            WWWW       WWWW
-			WWWW     WWWW         WWWWWWWW     WWWW
-			WWW      WWWW        WWW    WWW     WWW
-			WWWW       WW                        WWW
-			WWWW                                WWWW
-			WWWW                    WWW         WWWW
-			WWWW       WWWW      WWWW         WWWW
-			WWW         WWWWWWWWWW          WWWW
-			WWWW                         WWWWW
-			WWWWW                     WWWWW
-			WWWWW              WWWWWWW
-			WWWWWWWWWWWWWWWWWWWW
-			WWWWWWWW
+			No!
+			www
+			WWWWWWW
+			WWWWWWW
+			website:
+			website:
+			WW
+			www.
+			WWW WWW WWW:
+			website:
+			website:
+			WWWWWWWWWWWWWWWWWWW:
+			WW
+			www
+			WWWWWWW
+			WWWWWWWWWWWWWWWWWWW:
+			www
+			Hello!
+			website:
 			&lt;/color&gt;&lt;/size&gt;
 		</value>
 	</entry>
@@ -10787,22 +10789,22 @@
 			&lt;/color&gt;&lt;/size&gt;
 		</key>
 		<value>
-			omg... :O&lt;size=20&gt;&lt;color=black&gt;
-
-			▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-			█░▄▄▄▄▄░█▀░█▀▀▀▀▀░█░▄▄▄▄▄░█
-			█░█░░░█░█▀░▄░██▄▀▄█░█░░░█░█
-			█░█▄▄▄█░█▀█░█▄░▀▀░█░█▄▄▄█░█
-			█▄▄▄▄▄▄▄█▄█▄█░▀▄▀░█▄▄▄▄▄▄▄█
-			█▄▄▄▄░█▄░░░▄█▄█▄▄▀▄█░█▄█░██
-			█▄█░██▀▄▀█░▀░▄█▀░█▀░░█▄▄░░█
-			█▀▀▄░▀█▄░▀▄▀▄▀▀▀▄█░▄▀▄▄░███
-			█░█▀▄▄▀▄▀▄▀▄█▀░▄▄█▀▄███▄▄░█
-			█▄██▄█▄▄▄░▀▀█▄█▄▄░▄▄▄░█▄▀▄█
-			█░▄▄▄▄▄░█▄▄▄░▄█▀█░█▄█░░█▄▄█
-			█░█░░░█░█░▀█▄▀▀▀▄▄░░▄░▄▄▀░█
-			█░█▄▄▄█░█░░██▀░▄▀▀░▀▀▀█▄█░█
-			█▄▄▄▄▄▄▄█▄███▄█▄███▄███▄▄▄█
+			or... &lt;size=20&gt;&lt;color=black&gt;
+			
+-
+▄░▀▀▀
+░░░░░░░░░░░▄░░▄░░▄░▄▄▄
+.
+-
+-
+▄▄▄░░░▄▄██
+###
+░░░░▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄░▀▀█
+.
+░░░░░░░░░░░░░▄▄▄
+░░░░▄▄▄░░░░░▄░▄░▄░▄░░
+, ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
 
 
@@ -10828,431 +10830,431 @@
 	<table_shipLog>
 		<TranslationTableEntry>
 			<key>Village</key>
-			<value>Village</value>
+			<value>At home</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>VillageThe one and only Hearthian village, as well as the main source of explosions on this planet.</key>
-			<value>The one and only Hearthian village, as well as the main source of explosions on this planet.</value>
+			<value>The Hadin settlement is the only major source of explosives in the world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>VillageThe Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes.</key>
-			<value>The Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes.</value>
+			<value>Looking at the table, Noma Kamto was beaming and looked at me. I saw other lights and memories flash before my eyes.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>VillageHal says the statue has never opened its eyes before (despite Hornfels' best efforts).</key>
-			<value>Hal says the statue has never opened its eyes before (despite Hornfels' best efforts).</value>
+			<value>According to the singer, he did not open his eyes (without the power of Hornfels).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G Cave</key>
-			<value>Zero-G Cave</value>
+			<value>Smoking is not allowed</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveI hear Gossan has the zero-g cave set up if I want a refresher before I launch.</key>
-			<value>I hear Gossan has the zero-g cave set up if I want a refresher before I launch.</value>
+			<value>I'm ready for a zero-g tunnel if I need to cool down before starting a game.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveA cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</key>
-			<value>A cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</value>
+			<value>In the middle of the forest is a cave where the Wild Ventures train astronauts.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveI successfully repaired another "satellite" for Gossan.</key>
-			<value>I successfully repaired another "satellite" for Gossan.</value>
+			<value>Another Gosang "serial" successfully changed.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble Seed</key>
-			<value>Dark Bramble Seed</value>
+			<value>Production of products</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Harmonica Signal</key>
-			<value>Harmonica Signal</value>
+			<value>Harmonic Symbols</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedEsker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</key>
-			<value>Esker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</value>
+			<value>The Escope source code shows the sound in the Timberheart area. They say feldspar is a good species, but feldspar decays in air over time.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedA seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</key>
-			<value>A seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</value>
+			<value>Here, roots are taken from the dark soil to produce seeds. You have to use a Tektite Rimor to see what's inside.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedMy signalscope picks up harmonica music when I aim it at the seed.</key>
-			<value>My signalscope picks up harmonica music when I aim it at the seed.</value>
+			<value>My signal line picked up the music call while I was flipping through the channels.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedI launched my Little Scout into the seed. Somehow the seed is much bigger on the inside.</key>
-			<value>I launched my Little Scout into the seed. Somehow the seed is much bigger on the inside.</value>
+			<value>I started my work. It has many products.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Mines</key>
-			<value>Nomai Mines</value>
+			<value>My name is Noma.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai were mining ore somewhere on Timber Hearth.</key>
-			<value>The Nomai were mining ore somewhere on Timber Hearth.</value>
+			<value>Nomads work with wood.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</key>
-			<value>The Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</value>
+			<value>The Nomai mines were dug in this area to form a shield to protect the chamber between the Twin Ashes.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesOnce the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.</key>
-			<value>Once the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.</value>
+			<value>Nomai has no lumps or bumps due to the strong wall.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine.</key>
-			<value>The Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine.</value>
+			<value>Nomai found four and a half ounces of water in the water near the lake.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Grove</key>
-			<value>Quantum Grove</value>
+			<value>Quantum Park</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Signal</key>
-			<value>Quantum Signal</value>
+			<value>What is the sign?</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveChert detected a strange signal coming from the crater at Timber Hearth's south pole. It's very similar to the signal emitted by the Quantum Moon.</key>
-			<value>Chert detected a strange signal coming from the crater at Timber Hearth's south pole. It's very similar to the signal emitted by the Quantum Moon.</value>
+			<value>An interesting trace of chert was found to the left of the chimney. Like the signal emitted by Quantum Luna.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveThe Nomai detected a quantum signal coming from somewhere on Timber Hearth.</key>
-			<value>The Nomai detected a quantum signal coming from somewhere on Timber Hearth.</value>
+			<value>An interesting trace of chert was found to the left of the chimney. Like the signal emitted by Quantum Luna.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveThere is a strange rock shard in this grove that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
-			<value>There is a strange rock shard in this grove that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</value>
+			<value>Inside is a special stone. A signal is sent at startup.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveI found a poem written on one of the trees in the grove.</key>
-			<value>I found a poem written on one of the trees in the grove.</value>
+			<value>I found a song written in the woods.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Radio Tower</key>
-			<value>Radio Tower</value>
+			<value>A radio station</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Radio TowerA radio tower designed to receive photos taken by the deep space satellite. There are several photos of the entire solar system hanging on the walls. Hornfels noticed something strange in one of the photos, but concluded equipment malfunction was the only sensible explanation.</key>
-			<value>A radio tower designed to receive photos taken by the deep space satellite. There are several photos of the entire solar system hanging on the walls. Hornfels noticed something strange in one of the photos, but concluded equipment malfunction was the only sensible explanation.</value>
+			<value>Radio equipment designed to receive high-resolution images from satellites. There are many pictures of planets on the walls. Hornfels saw something unusual in the photo, but said mechanical error was the only explanation.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s Camp</key>
-			<value>Riebeck’s Camp</value>
+			<value>Rebecca Camp</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck</key>
-			<value>Riebeck</value>
+			<value>Rebecca</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.</key>
-			<value>Riebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.</value>
+			<value>Ryback goes to Bristol Cave to see what the nomads are doing in Antarctica.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck landed their ship near the big dome at the south pole. The door leading inside was broken, so they decided to head north to the ruins on the equator in search of a way beneath the surface.</key>
-			<value>Riebeck landed their ship near the big dome at the south pole. The door leading inside was broken, so they decided to head north to the ruins on the equator in search of a way beneath the surface.</value>
+			<value>Rebecca has her boat near a large building in Antarctica. The city gate was destroyed and they decided to travel north from the ruins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck discovered an old Nomai path near their campsite on the equator. The path starts inside the ruined building with trees growing out of it.</key>
-			<value>Riebeck discovered an old Nomai path near their campsite on the equator. The path starts inside the ruined building with trees growing out of it.</value>
+			<value>Rebecca finds an old dirt road near the Equator camp. The trail begins in the middle of a ruined house covered with wood.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck reached the Crossroads and continued downward in search of oxygen.</key>
-			<value>Riebeck reached the Crossroads and continued downward in search of oxygen.</value>
+			<value>Rebecca hit the road and fell out of the oxygen tank.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole.</key>
-			<value>Riebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole.</value>
+			<value>Your master lives in the south. Noumea's rich history revolves around the fear and excitement of a black hole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture.</key>
-			<value>Riebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture.</value>
+			<value>Rebecca is a single woodworker. Conquer their fears in a British Bedouin paradise.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity Cannon</key>
-			<value>Gravity Cannon</value>
+			<value>Big ball</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonA huge cylindrical structure that generates a strong upward gravity field.</key>
-			<value>A huge cylindrical structure that generates a strong upward gravity field.</value>
+			<value>The large cylindrical shape creates a strong climbing surface.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonI recalled a Nomai shuttle from the Quantum Moon.</key>
-			<value>I recalled a Nomai shuttle from the Quantum Moon.</value>
+			<value>Nomai's trailer reminds me of Quantum of Solace.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Knowledge</key>
-			<value>Tower of Quantum Knowledge</value>
+			<value>Tower of controversy</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThis tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</key>
-			<value>This tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</value>
+			<value>This tower (located at the waist of Brittle Hollow) contains key information about the arrival of the first Noma on the Quantum Moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeA Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</key>
-			<value>A Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</value>
+			<value>Before going to the Quantum Moon, an Eternal named Solanus asks Solan to learn the final laws from the Quantum Science Center (located in the Flower Hemisphere).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. "Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole."</key>
-			<value>The Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. "Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole."</value>
+			<value>Numa temples dedicated to the six phases of the moon. "Remember the last order. Level six, the temple on the moon will be in the north."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe pilgrimage to the Quantum Moon was a deeply significant journey for the Nomai.</key>
-			<value>The pilgrimage to the Quantum Moon was a deeply significant journey for the Nomai.</value>
+			<value>The journey to Norma is as difficult as going to the moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeAfter the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon.</key>
-			<value>After the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon.</value>
+			<value>After two groups of Nomai are trapped in Twin Cities and Creep Valley, their mission is to find them and visit the moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shard</key>
-			<value>Quantum Shard</value>
+			<value>This is a very beautiful place</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThe Nomai noticed a strange rock shard that appeared to wander when no one was watching.</key>
-			<value>The Nomai noticed a strange rock shard that appeared to wander when no one was watching.</value>
+			<value>Naomi notices a strange stone moving without her knowing.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardA strange rock shard that wanders when no one is watching. The Nomai determined this shard is the reason objects in this grove behave in a quantum manner.</key>
-			<value>A strange rock shard that wanders when no one is watching. The Nomai determined this shard is the reason objects in this grove behave in a quantum manner.</value>
+			<value>A strange stone moves but no one sees it. Naomi decided to do this project..</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThe Nomai hypothesized that this shard is actually a piece of the Quantum Moon.</key>
-			<value>The Nomai hypothesized that this shard is actually a piece of the Quantum Moon.</value>
+			<value>Nomai thinks this is the easiest part.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThis shard emits the same signal as the Quantum Moon.</key>
-			<value>This shard emits the same signal as the Quantum Moon.</value>
+			<value>This part creates a light-like signal..</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern Glacier</key>
-			<value>Northern Glacier</value>
+			<value>Snow in the north</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</key>
-			<value>The north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</value>
+			<value>Snow and ice cover north of Brittle Hollow. Bedouin is different.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</key>
-			<value>The Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</value>
+			<value>Nomai decided to go to Whitehall station. There they began to develop the technology.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1</key>
-			<value>Escape Pod 1</value>
+			<value>Health 1</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of the three Nomai escape pods landed somewhere on Brittle Hollow.</key>
-			<value>One of the three Nomai escape pods landed somewhere on Brittle Hollow.</value>
+			<value>Three Nomai contestants in one at Brittle Hollow.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>One of three Nomai escape pods that crashed in our solar system.</value>
+			<value>A nomad fell under the sun.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>All three escape pods were launched from something called the Vessel, which was badly damaged.</value>
+			<value>The three escape routes were built on heavily damaged ships.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old Settlement</key>
-			<value>Old Settlement</value>
+			<value>old house</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shelter Site</key>
-			<value>Shelter Site</value>
+			<value>and shelter</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai survivors who crashed on Brittle Hollow climbed down the cliff to a shelter site below the surface.</key>
-			<value>The Nomai survivors who crashed on Brittle Hollow climbed down the cliff to a shelter site below the surface.</value>
+			<value>Light remnants of the Kava ruins fell from the rock to the ground.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai constructed a temporary settlement beneath their crashed escape pod.</key>
-			<value>The Nomai constructed a temporary settlement beneath their crashed escape pod.</value>
+			<value>Nomi built a temporary shelter under his house to avoid danger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai worked together to recall an eye-shaped signal they encountered while aboard the Vessel.</key>
-			<value>The Nomai worked together to recall an eye-shaped signal they encountered while aboard the Vessel.</value>
+			<value>Nomi was added by remembering the shape of the ship.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe signal was somehow older than the universe itself. The Nomai decided to call it the "Eye of the universe."</key>
-			<value>The signal was somehow older than the universe itself. The Nomai decided to call it the "Eye of the universe."</value>
+			<value>This code is obsolete. Nomai decided to call it "the eye of the world".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai abandoned this settlement over growing concerns about its stability.</key>
-			<value>The Nomai abandoned this settlement over growing concerns about its stability.</value>
+			<value>Naomi left the country for her own safety.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 3)</key>
-			<value>Mural (Panel 3)</value>
+			<value>Plate (3 plates)</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 3)A mural of three escape pods evacuating the Nomai vessel.</key>
-			<value>A mural of three escape pods evacuating the Nomai vessel.</value>
+			<value>There are three escape holes on the wall to push Numa's ship through.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 2)</key>
-			<value>Mural (Panel 2)</value>
+			<value>Murals (2 pcs.)</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 2)A mural of Dark Bramble ensnaring the Nomai vessel.</key>
-			<value>A mural of Dark Bramble ensnaring the Nomai vessel.</value>
+			<value>Photo of Black Bramble Nomai holding the boat.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 1)</key>
-			<value>Mural (Panel 1)</value>
+			<value>Wall panel (one piece)</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 1)A mural of a Nomai vessel encountering a signal.</key>
-			<value>A mural of a Nomai vessel encountering a signal.</value>
+			<value>Photo of Numa, a boat on the border.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging City</key>
-			<value>The Hanging City</value>
+			<value>Tent city</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern Settlement</key>
-			<value>Northern Settlement</value>
+			<value>He lives in the north.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai decided to migrate from the Old Settlement to the northern glacier. They used gravity crystals to craft a stable path beneath the surface.</key>
-			<value>The Nomai decided to migrate from the Old Settlement to the northern glacier. They used gravity crystals to craft a stable path beneath the surface.</value>
+			<value>Numa decided to go to the cold countryside north of the city. They use solid crystals to create permanent tunnels underground.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThere's a huge Nomai city just to the north of Riebeck's campsite.</key>
-			<value>There's a huge Nomai city just to the north of Riebeck's campsite.</value>
+			<value>The town of Nomai is north of Libak Camp.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityA Nomai city suspended beneath Brittle Hollow's northern glacier. The city is divided vertically into four districts.</key>
-			<value>A Nomai city suspended beneath Brittle Hollow's northern glacier. The city is divided vertically into four districts.</value>
+			<value>The nomadic city freezes under the soft snow from the north. The city is divided into four districts.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityI found a switch in the Meltwater District that raises and lowers the Black Hole Forge.</key>
-			<value>I found a switch in the Meltwater District that raises and lowers the Black Hole Forge.</value>
+			<value>I see a clear change in the upward motion of the black hole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai debated how to obtain the powerful, highly advanced warp core required for the Ash Twin Project.</key>
-			<value>The Nomai debated how to obtain the powerful, highly advanced warp core required for the Ash Twin Project.</value>
+			<value>Nomai discusses the advanced warp core programs that the Ash Twins need.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
-			<value>The Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</value>
+			<value>Nomi came to this world in search of something supernatural. The source of this mantra is called the Eye of the World.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole Forge</key>
-			<value>Black Hole Forge</value>
+			<value>Black law</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Black Hole Forge is suspended below the Hanging City. I found a switch in the Meltwater District that raises and lowers the forge.</key>
-			<value>The Black Hole Forge is suspended below the Hanging City. I found a switch in the Meltwater District that raises and lowers the forge.</value>
+			<value>They rest under the black hole furnace. The hammer is also lowered in place of the heater.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Black Hole Forge District is the highest district in the Hanging City.</key>
-			<value>The Black Hole Forge District is the highest district in the Hanging City.</value>
+			<value>The Black Hole Forge is the highest point of the floating city.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</key>
-			<value>A Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</value>
+			<value>A group of Pokémon named Nomai plans to build a new camp at the Black Hole Forge.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</key>
-			<value>The Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</value>
+			<value>Nomai creates war shards in the Black Hole Forge before awakening Gemini.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</key>
-			<value>A warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</value>
+			<value>Renting a turnkey tower can be fun. But the column is still attached to the center of the star.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe warp receiver must be located on (or in close orbit around) the relevant astral body.</key>
-			<value>The warp receiver must be located on (or in close orbit around) the relevant astral body.</value>
+			<value>The PCB should be placed (and close) to the star on the right side of the body.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-			<value>The Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them.</value>
+			<value>The twin sand springs are as close as stars, and the distance between them is just right.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeAll of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</key>
-			<value>All of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</value>
+			<value>All the forts were destroyed and six main battle tanks were built in different places.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
-			<value>A Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</value>
+			<value>Nomai has successfully designed a new Poke model called Ash of Ash.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle Diagram</key>
-			<value>Alignment Angle Diagram</value>
+			<value>Join the corners.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramA diagram depicting the alignment angle between a warp tower and its corresponding astral body.</key>
-			<value>A diagram depicting the alignment angle between a warp tower and its corresponding astral body.</value>
+			<value>The map shows the angular shape of nearby stars.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramWarp tower alignment angles are not exact. They only need to be within five degrees of the astral body's center.</key>
-			<value>Warp tower alignment angles are not exact. They only need to be within five degrees of the astral body's center.</value>
+			<value>It's not just putting together a castle. Only five degrees from the center of the star's body.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramThis results in slightly longer warp windows that last roughly several seconds.</key>
-			<value>This results in slightly longer warp windows that last roughly several seconds.</value>
+			<value>This long window is short to short window.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramAnyone stepping onto the warp platform during the active window will be immediately warped.</key>
-			<value>Anyone stepping onto the warp platform during the active window will be immediately warped.</value>
+			<value>Anyone who enters the window during the session is automatically redirected.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern Observatory</key>
-			<value>Southern Observatory</value>
+			<value>The Southern Explorer</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.</key>
-			<value>The Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.</value>
+			<value>Nomai decided to build a large Antarctic observatory at Brittle Hollow.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</key>
-			<value>There are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</value>
+			<value>Two paths lead to a view below the fragile floor of the cave. One starts with the canon of gravity and the other starts with quantum science.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryRiebeck says you can't get into the observatory from the surface (they tried), but there's probably a path to it beneath the crust somewhere.</key>
-			<value>Riebeck says you can't get into the observatory from the surface (they tried), but there's probably a path to it beneath the crust somewhere.</value>
+			<value>You can't climb to the top of the tower (they try), but the path leads to Fatherland, Rebekah.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere's a door to the observatory on the surface, but it's broken.</key>
-			<value>There's a door to the observatory on the surface, but it's broken.</value>
+			<value>There was a door that protected the roof, but it was broken.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal.</key>
-			<value>The new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal.</value>
+			<value>No clear evidence of the construction of Nomai Tower could be found.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryBased on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun.</key>
-			<value>Based on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun.</value>
+			<value>Knowing the size of the moon, Nomius believed that the telescope orbited the sun too much.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.</key>
-			<value>The Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.</value>
+			<value>Nomai decided to stop looking for clues and send pictures instead of looking deeper.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere were concerns that the probability of launching a probe in the correct direction would be absurdly small.</key>
-			<value>There were concerns that the probability of launching a probe in the correct direction would be absurdly small.</value>
+			<value>There is less concern about reliable research.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado Simulation</key>
-			<value>Tornado Simulation</value>
+			<value>Polosius</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean Current Discovery</key>
-			<value>Ocean Current Discovery</value>
+			<value>Current sea view</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThe Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.</key>
-			<value>The Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.</value>
+			<value>He still has his model of the depth of Rapanoe at the bottom of the Southern Observatory, showing how it is submerged by strong ocean currents.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationMost cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</key>
-			<value>Most cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</value>
+			<value>At this depth, strong winds rotate to the right. It is Nomayi's storms that send things to earth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThere also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
-			<value>There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</value>
+			<value>A strange storm blew on the other side and the bodies washed away and drowned.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s Camp</key>
-			<value>Feldspar’s Camp</value>
+			<value>Spar camp</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar</key>
@@ -11260,1475 +11262,1474 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar headed off to Dark Bramble after reaching the core of Giant's Deep.</key>
-			<value>Feldspar headed off to Dark Bramble after reaching the core of Giant's Deep.</value>
+			<value>When it reached the middle of the Great Pit, Fieldstone approached Blackthorn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Inside the Seed</key>
-			<value>Inside the Seed</value>
+			<value>of production</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampWhen I launch my scout into the seed that crashed on Timber Hearth, it ends up in a much bigger space filled with fog and thorny vines.</key>
-			<value>When I launch my scout into the seed that crashed on Timber Hearth, it ends up in a much bigger space filled with fog and thorny vines.</value>
+			<value>When I entered the forest, I saw a large area full of clouds and thorn trees.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton.</key>
-			<value>Feldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton.</value>
+			<value>He lives in Fieldstone. A large fish is cut from the bone and stored.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</key>
-			<value>Feldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</value>
+			<value>Even though Feldspar says he is in two places at once, he sees no problems with my next monitor. They believe that time is different in the dark.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</key>
-			<value>Feldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</value>
+			<value>Feldspar never wanted to return to tradition. I'm sorry</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Jellyfish</key>
-			<value>Frozen Jellyfish</value>
+			<value>Cool fish</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hollow Vine</key>
-			<value>Hollow Vine</value>
+			<value>indeed</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</key>
-			<value>Feldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</value>
+			<value>Feldspar reveals hidden treasure in the last large container at the end of Wine Hollow. I want to go to the tail of the fish, bring a big light, bring a cup of feldspar.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.</key>
-			<value>Feldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.</value>
+			<value>Feldspar described the experience of eating a large frozen fish. The Ridge is strong and powerful and can protect against lightning strikes.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar decided to venture into the jellyfish’s interior cavity to see if it tasted any better on the inside.</key>
-			<value>Feldspar decided to venture into the jellyfish’s interior cavity to see if it tasted any better on the inside.</value>
+			<value>Feldspar decided to go fishing to see if there was anything good.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishAfter tasting the inside of the jellyfish, Feldspar concluded that these jellyfish are only useful for insulation from electricity.</key>
-			<value>After tasting the inside of the jellyfish, Feldspar concluded that these jellyfish are only useful for insulation from electricity.</value>
+			<value>Knocking on the door in front of the fish, Fieldstone concludes that the fish is strong enough to stop lightning.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3</key>
-			<value>Escape Pod 3</value>
+			<value>Pod 3;</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3One of the three Nomai escape pods never made it out of Dark Bramble.</key>
-			<value>One of the three Nomai escape pods never made it out of Dark Bramble.</value>
+			<value>There were no black thorns on Noma's three walls.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>One of three Nomai escape pods that crashed in our solar system.</value>
+			<value>It is one of the three living things on earth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>All three escape pods were launched from something called the Vessel, which was badly damaged.</value>
+			<value>The ship sank when three men on board were seriously injured.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once.</key>
-			<value>The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once.</value>
+			<value>The remains of Escape Pod 3 saw two different signals, and the ship appeared in two places at once.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Grave</key>
-			<value>Nomai Grave</value>
+			<value>It's a serious process</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3 Survivors</key>
-			<value>Escape Pod 3 Survivors</value>
+			<value>Book 3</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors from Escape Pod 3 abandoned the wreckage and attempted to return to the Vessel.</key>
-			<value>The survivors from Escape Pod 3 abandoned the wreckage and attempted to return to the Vessel.</value>
+			<value>The remains of Lifepod 3 attempted to return to the ship after leaving the wreckage.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors decided to follow the closer of the two Vessel beacons due to their limited air supply. They planned to leave a trail of lights behind them in case someone heard their distress signal.</key>
-			<value>The survivors decided to follow the closer of the two Vessel beacons due to their limited air supply. They planned to leave a trail of lights behind them in case someone heard their distress signal.</value>
+			<value>The other spirits did not pay attention to the lights of the two ships. If someone hears their sign, he intends to lower the beam.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Dark Bramble seed, where they could go no further.</key>
-			<value>The survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Dark Bramble seed, where they could go no further.</value>
+			<value>The survivors of Pod 3 run to see the small black vines and the ship's lights.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod.</key>
-			<value>The Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod.</value>
+			<value>But there is a small loophole through which Naomi can slip.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe Vessel's beacon was dying, and would soon be gone completely.</key>
-			<value>The Vessel's beacon was dying, and would soon be gone completely.</value>
+			<value>The ship's lights went out and went out completely.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveIf I launch my scout into the seed, I can take photos of an enormous derelict Nomai ship.</key>
-			<value>If I launch my scout into the seed, I can take photos of an enormous derelict Nomai ship.</value>
+			<value>If I use a browser to view the map, I can see a picture of the missing ship Nomaya.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Vessel</key>
-			<value>The Vessel</value>
+			<value>boat</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</key>
-			<value>The Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</value>
+			<value>Nomai went to the ark in this part of the world. They are trying to keep up with the world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel crashed somewhere in Dark Bramble.</key>
-			<value>The Vessel crashed somewhere in Dark Bramble.</value>
+			<value>The ship landed in a dark place.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel's warp core broke when the ship crashed in Dark Bramble.</key>
-			<value>The Vessel's warp core broke when the ship crashed in Dark Bramble.</value>
+			<value>The base of the ship was destroyed when the ship collided with the Dark Horn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI launched my scout into the seed at the Nomai Grave and took photos of an enormous derelict Nomai ship.</key>
-			<value>I launched my scout into the seed at the Nomai Grave and took photos of an enormous derelict Nomai ship.</value>
+			<value>She takes her scouts to Numa's tomb and finds Numa's shipwreck.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found the derelict Nomai Vessel deep within Dark Bramble.</key>
-			<value>I found the derelict Nomai Vessel deep within Dark Bramble.</value>
+			<value>I found Norma's boat lost in the dark.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel's warp core is long dead.</key>
-			<value>The Vessel's warp core is long dead.</value>
+			<value>The days of being tall are over.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI activated a three-sided pillar on the Vessel's bridge that appears to be some sort of input device.</key>
-			<value>I activated a three-sided pillar on the Vessel's bridge that appears to be some sort of input device.</value>
+			<value>Three engine-like pillars were found on the bridge.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai tried to call for help, but the Vessel's outgoing message system broke during the crash.</key>
-			<value>The Nomai tried to call for help, but the Vessel's outgoing message system broke during the crash.</value>
+			<value>Nomi tries to call for help but is stopped by the ship.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel can still hear incoming messages from other Nomai vessels. The remaining Nomai clans are regrouping in response to the impending death of the universe.</key>
-			<value>The Vessel can still hear incoming messages from other Nomai vessels. The remaining Nomai clans are regrouping in response to the impending death of the universe.</value>
+			<value>This ship can listen to the communications of other Nomai ships. The remnants of Nume's race gather to avenge the destruction of the world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going.</key>
-			<value>I found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going.</value>
+			<value>They won the world's first Nomai Award. Naomi was worried and surprised that the signal was gone and did not tell the family where they were going.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe Cannon</key>
-			<value>Orbital Probe Cannon</value>
+			<value>Cannon Orbiter</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.</key>
-			<value>The Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.</value>
+			<value>Nomai loads the last part of the spinning cannon probe and sends it flying around Hell.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonI used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.</key>
-			<value>I used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.</value>
+			<value>I used the Nomai port to track the space station in long-range orbit.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai decided to construct a probe cannon in orbit around Giant’s Deep.</key>
-			<value>The Nomai decided to construct a probe cannon in orbit around Giant’s Deep.</value>
+			<value>Nomads decided to form a circle within the giant deep circle.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Flash</key>
-			<value>Orbital Flash</value>
+			<value>Electricity</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonGabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.</key>
-			<value>Gabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.</value>
+			<value>Gabbros shows a lot of light in the sky at the beginning of each disk. The object is in the dark of a large orbit.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.</key>
-			<value>The broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.</value>
+			<value>The ruins of Nomai Station are gone, and giants surround Hell. The country has 3 exits.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Orbital Probe Cannon was created to find the precise location of the Eye of the universe.</key>
-			<value>The Orbital Probe Cannon was created to find the precise location of the Eye of the universe.</value>
+			<value>The Canon Orbiter was designed to accurately reflect the Earth's surface.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe.</key>
-			<value>The Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe.</value>
+			<value>The nomad pushes the rail gun with all his might to see the surface of the earth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking Module</key>
-			<value>Probe Tracking Module</value>
+			<value>Follow up questions</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>One of the Orbital Probe Cannon’s three modules.</value>
+			<value>One of the three components of the sensor ball track module.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe Probe Tracking Module is receiving data from the launched probe.</key>
-			<value>The Probe Tracking Module is receiving data from the launched probe.</value>
+			<value>The data comes from the aforementioned report.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleAny Nomai aboard the Probe Tracking Module would be the first to see the coordinates of the Eye of the universe.</key>
-			<value>Any Nomai aboard the Probe Tracking Module would be the first to see the coordinates of the Eye of the universe.</value>
+			<value>Each spacecraft is the first to see the Earth's surface.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleA Nomai computer reports the Probe Tracking Module as "missing."</key>
-			<value>A Nomai computer reports the Probe Tracking Module as "missing."</value>
+			<value>Nomai's computer says "lost".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI saw the Probe Tracking Module through a Nomai projection pool. It looks like the module is underwater. I could see purple electricity outside the viewport.</key>
-			<value>I saw the Probe Tracking Module through a Nomai projection pool. It looks like the module is underwater. I could see purple electricity outside the viewport.</value>
+			<value>I have a browser that uses the Nomai droplet pool. Unit in water. I saw a black flash in the distance.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe Orbital Probe Cannon has launched millions of probes.</key>
-			<value>The Orbital Probe Cannon has launched millions of probes.</value>
+			<value>Probe Cannon missed over a million visitors..</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe.</key>
-			<value>The 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe.</value>
+			<value>9318 054 Astronomers discover a mysterious eye-sized crater on Earth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</key>
-			<value>The statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</value>
+			<value>Photo Hunt automatically records the path of each photo and sends the data to Ashtwin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI found Nomai coordinates marking the location of the Eye of the universe.</key>
-			<value>I found Nomai coordinates marking the location of the Eye of the universe.</value>
+			<value>I saw the normai line representing the world's atmosphere.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch Module</key>
-			<value>Launch Module</value>
+			<value>Use classes.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>One of the Orbital Probe Cannon’s three modules.</value>
+			<value>One of the three components of the sensor ball track module.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module looks heavily damaged. There’s a huge breach in the glass viewport.</key>
-			<value>The Launch Module looks heavily damaged. There’s a huge breach in the glass viewport.</value>
+			<value>The part of the shoe seems to be completely broken. There is a sound on the glass.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module's viewport window is fractured, exposing it to the vacuum of space.</key>
-			<value>The Launch Module's viewport window is fractured, exposing it to the vacuum of space.</value>
+			<value>The wake window is broken and the space is empty.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module is badly damaged, but its projection pool is still intact.</key>
-			<value>The Launch Module is badly damaged, but its projection pool is still intact.</value>
+			<value>Part of the torso is completely broken, but the core is still there.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleA Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</key>
-			<value>A Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</value>
+			<value>Malu Yemay said the name of the gun didn't matter because I only had one bullet.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleA Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</key>
-			<value>A Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</value>
+			<value>Nomi, known as Pravet, denied that he would not check the information if the guards left.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control Module</key>
-			<value>Control Module</value>
+			<value>Power unit</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>One of the Orbital Probe Cannon’s three modules.</value>
+			<value>One of the three components of the sensor ball track module.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</key>
-			<value>The Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</value>
+			<value>The Board has received a (urgent) request to investigate the twin ash project. I want to choose my gun carefully.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</key>
-			<value>The probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</value>
+			<value>The invention was successful, but the production of weapons was full of problems. Boats come in many styles.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Stranger</key>
-			<value>The Stranger</value>
+			<value>Unknown</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
-			<value>A massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</value>
+			<value>A large sphere made of rings hidden in the fabric. It has no ordinary or nomadic origins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River Lowlands</key>
-			<value>River Lowlands</value>
+			<value>River Road</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River LowlandsA low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river.</key>
-			<value>A low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river.</value>
+			<value>It is near the bottom exit. A wooden house near the river.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River LowlandsI found several ornate metal artifacts inside a workshop surrounded by ghost matter.</key>
-			<value>I found several ornate metal artifacts inside a workshop surrounded by ghost matter.</value>
+			<value>I saw a mess around the metalwork.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide Reel</key>
-			<value>Burned Slide Reel</value>
+			<value>Hot train</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the origin of the Stranger and its inhabitants.</key>
-			<value>A slide reel that shows the origin of the Stranger and its inhabitants.</value>
+			<value>There is a book about immigrants and their people's origins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelSeveral slides have been burned and cannot be viewed.</key>
-			<value>Several slides have been burned and cannot be viewed.</value>
+			<value>There are many movies that are burned and never seen.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning Room</key>
-			<value>Slide Burning Room</value>
+			<value>Distorted</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Location</key>
-			<value>Secret Location</value>
+			<value>A secret place</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomA map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.</key>
-			<value>A map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.</value>
+			<value>The map you found in the desert temple shows a hidden area in the middle of the road.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomA room full of burned slide reels piled next to a strange device.</key>
-			<value>A room full of burned slide reels piled next to a strange device.</value>
+			<value>It is rare to see a famous movie theater.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of green lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</key>
-			<value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of green lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</value>
+			<value>I found a hidden chip with a cup that clearly indicated the type of press. This One turns green and walks through the trees to the lighthouse, where he moves things to a hidden spot behind a roaring fire.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder Isles</key>
-			<value>Cinder Isles</value>
+			<value>Cinderella's Island</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesA pair of small rocky islands connected by a village of stilt houses.</key>
-			<value>A pair of small rocky islands connected by a village of stilt houses.</value>
+			<value>The rocky islands are dotted with villages with large houses.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesI found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>I found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe.</value>
+			<value>In her oven is a large iron that looks like Norma's natural eye.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesI found a large metal symbol for the Eye of the universe inside a burned-out building.</key>
-			<value>I found a large metal symbol for the Eye of the universe inside a burned-out building.</value>
+			<value>I saw the face of a large iron sign on a burning building.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>A slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
+			<value>The Cosmic Eye video shows extraterrestrial eyes in Nomai's image.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>A slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</value>
+			<value>Wash your feet to show your guests the face of the world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
-			<value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</value>
+			<value>I found a hidden puzzle that was a puzzle with a visible pattern that shaded the light areas. When the lights go out, the characters end up in a dark hole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island Tower</key>
-			<value>Island Tower</value>
+			<value>Tower Island:</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island Cave</key>
-			<value>Island Cave</value>
+			<value>the pit</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island TowerI found a projection that reveals a cave entrance at the base of a rocky island with a tall tower.</key>
-			<value>I found a projection that reveals a cave entrance at the base of a rocky island with a tall tower.</value>
+			<value>I found a puzzle that showed a cave entrance and a high tower under a cliff.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island TowerA tower that sits atop one of the Cinder Isles. The upper floors can only be reached from a second entrance at the back of the tower.</key>
-			<value>A tower that sits atop one of the Cinder Isles. The upper floors can only be reached from a second entrance at the back of the tower.</value>
+			<value>A castle on one of the Cinder Islands. You can go to the upper level through another door behind the tower.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island TowerI found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger.</key>
-			<value>I found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger.</value>
+			<value>I found a book that showed visitors a secret room, a round room full of lights and walls. He saw people in three beds.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol Room</key>
-			<value>Symbol Room</value>
+			<value>I found a book that showed visitors a secret room, a round room full of lights and walls. He saw people in three beds.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Passage</key>
-			<value>Secret Passage</value>
+			<value>A secret journey</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, several lamps in the mural room turned on while others turned off, plunging the mural into darkness and revealing a secret passage.</key>
-			<value>The light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, several lamps in the mural room turned on while others turned off, plunging the mural into darkness and revealing a secret passage.</value>
+			<value>Bright lights in a room near the castle reveal a spiral staircase. Then one of the visitors went under the ring on the wall of the castle and took it down and placed it in Susan's room. After that people appeared on one side of the wall and on the other side the wall collapsed and opened a secret passage.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomA secret room filled with wooden containers marked with different symbols.</key>
-			<value>A secret room filled with wooden containers marked with different symbols.</value>
+			<value>The secret room is filled with trees and symbols.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomThree of the containers are marked with glowing vault seals, but their contents have been burned away.</key>
-			<value>Three of the containers are marked with glowing vault seals, but their contents have been burned away.</value>
+			<value>Three of these boxes have heat seals, but the ones inside were burned to death.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomI opened the container marked with the symbol of a burning slide reel and found a vertical sequence of symbols inside.</key>
-			<value>I opened the container marked with the symbol of a burning slide reel and found a vertical sequence of symbols inside.</value>
+			<value>I opened the ignition cylinder box and found a marker line inside.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hidden Gorge</key>
-			<value>Hidden Gorge</value>
+			<value>A precious stone</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hidden GorgeA narrow gorge along the rightmost branch of the river. There are dwellings built into both cliff faces high above.</key>
-			<value>A narrow gorge along the rightmost branch of the river. There are dwellings built into both cliff faces high above.</value>
+			<value>A small village north of the river. Houses were built on both sides of the cliff.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</key>
-			<value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</value>
+			<value>I found a hidden puzzle that was a puzzle with a visible pattern that shaded the light areas. The lights are dim and the box shapes lead to a large wooden wall.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-			<value>A slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</value>
+			<value>Boots guide visitors around a special fire..</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged Laboratory</key>
-			<value>Damaged Laboratory</value>
+			<value>Torture Management</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hull Breach</key>
-			<value>Hull Breach</value>
+			<value>Bad</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryI found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger.</key>
-			<value>I found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger.</value>
+			<value>You'll find a book that describes an explosion that blows a hole in a hidden cave.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryA laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of the Stranger.</key>
-			<value>A laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of the Stranger.</value>
+			<value>The lab has three test rooms. The second part is completely separated and can be accessed by removing the outer ring.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryI saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</key>
-			<value>I saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</value>
+			<value>I saw a healthy man lying in front of the fire, something green. The rest of the boat left without being caught, but flames appeared in front of the treasure.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryI found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</key>
-			<value>I found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</value>
+			<value>I found an article that shows three different courses. The third battle is over.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned Temple</key>
-			<value>Abandoned Temple</value>
+			<value>An abandoned temple</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cliffside Building</key>
-			<value>Cliffside Building</value>
+			<value>Cliff's house</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleI saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away.</key>
-			<value>I saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away.</value>
+			<value>I found another structure leading to one of the canyon walls, but the bridge was broken.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleAn abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge.</key>
-			<value>An abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge.</value>
+			<value>The wall of the temple was destroyed by fire. This can be done by using a hidden measurement method.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleThere is an interface upstairs that can be used to line up symbols in a vertical sequence.</key>
-			<value>There is an interface upstairs that can be used to line up symbols in a vertical sequence.</value>
+			<value>Above is the description of the far vertical image.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleEntering the correct sequence opens the path to a secret room beneath the temple.</key>
-			<value>Entering the correct sequence opens the path to a secret room beneath the temple.</value>
+			<value>Going right opens a secret room under the temple.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleI found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</key>
-			<value>I found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</value>
+			<value>I had a picture of people taking all the files out of the drawer, cleaning all the rings and stuff, taking everything out. This section is mandatory.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 1</key>
-			<value>Map Projection 1</value>
+			<value>Article 1</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 1A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+			<value>It provides sensitive privacy areas for guests.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 2</key>
-			<value>Map Projection 2</value>
+			<value>Article 2</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 2A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+			<value>It provides sensitive privacy areas for guests.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 3</key>
-			<value>Map Projection 3</value>
+			<value>Article 3</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 3A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
+			<value>It provides sensitive privacy areas for guests.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Reservoir</key>
-			<value>Reservoir</value>
+			<value>A source of water</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirAn enormous reservoir with wooden piers and buildings on both shores.</key>
-			<value>An enormous reservoir with wooden piers and buildings on both shores.</value>
+			<value>A large lake with trees and forest on both sides.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirI found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</key>
-			<value>I found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</value>
+			<value>I saw the control room, and the maps showed how the alien was different from the other machines.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirI found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</key>
-			<value>I found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</value>
+			<value>I found a picture showing the current path of the star and the radius of the first solar supernova.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</key>
-			<value>A slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</value>
+			<value>Dad shows another object in a large metal box that is closed and falls into the water.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelNearly all of the slides have been burned and cannot be viewed.</key>
-			<value>Nearly all of the slides have been burned and cannot be viewed.</value>
+			<value>All the surrounding tables were burned in an unknown way.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged Structure</key>
-			<value>Submerged Structure</value>
+			<value>A house under water</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureAccording to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</key>
-			<value>According to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</value>
+			<value>Because of the differences in the paper, the shed is placed in a large metal container and kept in water.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hollow Structure</key>
-			<value>Hollow Structure</value>
+			<value>Workplaces</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureI found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.</key>
-			<value>I found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.</value>
+			<value>I saw a picture of a bell hanging on the wall. It looks like there is a round hole in the bottom.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureA large metal structure suspended by chains. It can be entered by swimming from below.</key>
-			<value>A large metal structure suspended by chains. It can be entered by swimming from below.</value>
+			<value>A large metal chain hangs from the chain. You can swim from the bottom.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureThere is a sealed vault illuminated by a green fire inside the structure.</key>
-			<value>There is a sealed vault illuminated by a green fire inside the structure.</value>
+			<value>In the center of the building is a building lit by green fire.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean Lake</key>
-			<value>Subterranean Lake</value>
+			<value>Yes, the lake</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Fire Chamber</key>
-			<value>Fire Chamber</value>
+			<value>The fireplace</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains and saw a green fire burning inside.</key>
-			<value>I looked through a peephole in the side of a large metal structure suspended by chains and saw a green fire burning inside.</value>
+			<value>I looked at the door that was blocked by the wall of the big iron house and saw green flames burning.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Missing Vault</key>
-			<value>Missing Vault</value>
+			<value>The Lost Astronomy</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase and out of sight.</key>
-			<value>I saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase and out of sight.</value>
+			<value>On the wall was a large metal cage with green flames hanging from it, and two men holding chains. They both woke up from the light and ran up the stairs and disappeared.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault.</key>
-			<value>I discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault.</value>
+			<value>I saw a big house underground. There is a port on the shore of the lake. Divided into three levels, each level has three points.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI rotated the mechanism in front of the vault, causing it to strain against the chains holding it shut. Moments later rays of green light spilled out of the vault.</key>
-			<value>I rotated the mechanism in front of the vault, causing it to strain against the chains holding it shut. Moments later rays of green light spilled out of the vault.</value>
+			<value>I dropped the tool into storage and slipped it on the back chain. after a while a green light came out of the shed.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed Vault</key>
-			<value>Sealed Vault</value>
+			<value>Delete it</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI found a strange vault wrapped in chains and marked with three glowing symbols.</key>
-			<value>I found a strange vault wrapped in chains and marked with three glowing symbols.</value>
+			<value>He also had a protective chain with three lights attached to it.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the River Lowlands showed a strange vault being closed and sealed with chains and a glowing symbol.</key>
-			<value>A slide reel from the River Lowlands showed a strange vault being closed and sealed with chains and a glowing symbol.</value>
+			<value>Brenna flows down, revealing a very beautiful, powerful, bright and symbolic stream.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the Cinder Isles showed a glowing symbol and chains appear around a strange vault.</key>
-			<value>A slide reel from the Cinder Isles showed a glowing symbol and chains appear around a strange vault.</value>
+			<value>Cinderella's Isles explains how to illuminate and create a series of discoveries in a mysterious library.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the Hidden Gorge showed a glowing symbol and chains appear around a strange vault.</key>
-			<value>A slide reel from the Hidden Gorge showed a glowing symbol and chains appear around a strange vault.</value>
+			<value>A curved corner of a hidden cave reveals a glowing seal and a chain appears near another chest.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI met one of the Stranger's inhabitants who was imprisoned within the vault!</key>
-			<value>I met one of the Stranger's inhabitants who was imprisoned within the vault!</value>
+			<value>I met a man in prison.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultThe Prisoner showed me a vision revealing the actions they took that resulted in their eternal confinement.</key>
-			<value>The Prisoner showed me a vision revealing the actions they took that resulted in their eternal confinement.</value>
+			<value>The prisoners were talking about the things they do in prison.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI used the vision torch to share my knowledge of the solar system's history with the Prisoner.</key>
-			<value>I used the vision torch to share my knowledge of the solar system's history with the Prisoner.</value>
+			<value>Using the lamp, I told the prisoner everything I knew about the story of that day.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded Woodlands</key>
-			<value>Shrouded Woodlands</value>
+			<value>The forest is covered.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI rode a raft through a densely wooded stretch of river. I can see buildings along the banks of the river.</key>
-			<value>I rode a raft through a densely wooded stretch of river. I can see buildings along the banks of the river.</value>
+			<value>I was rowing a boat in a forest river. I see a house by the river.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsA dense forest along the banks of a river.</key>
-			<value>A dense forest along the banks of a river.</value>
+			<value>There is a large forest on the banks of the river.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI heard music coming from a candlelit building across the water.</key>
-			<value>I heard music coming from a candlelit building across the water.</value>
+			<value>I can hear the music of the lights on the water.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI found a covered bridge leading into the darkest part of the forest.</key>
-			<value>I found a covered bridge leading into the darkest part of the forest.</value>
+			<value>I saw a covered bridge leading to a dark part of the forest.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden Archive</key>
-			<value>Forbidden Archive</value>
+			<value>There is no need to register.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Fireplace</key>
-			<value>Secret Fireplace</value>
+			<value>secret fire</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</key>
-			<value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</value>
+			<value>I found a hidden puzzle that was a puzzle with a visible pattern that shaded the light areas. The figure follows the candlelight, which leads him to a path hidden behind a burning fire.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveA library full of intact slide reels hidden deep underground.</key>
-			<value>A library full of intact slide reels hidden deep underground.</value>
+			<value>A library full of endless and timeless images.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThere is a container marked with one of the vault seals, but its contents have been destroyed.</key>
-			<value>There is a container marked with one of the vault seals, but its contents have been destroyed.</value>
+			<value>There was a box with old stamps, but it wasn't there.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the origin of the Stranger and its inhabitants.</key>
-			<value>I found a slide reel that shows the origin of the Stranger and its inhabitants.</value>
+			<value>I have a chart showing where tourists and locals come from.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the sacrifice that was made to build the Stranger.</key>
-			<value>Intact slides reveal the sacrifice that was made to build the Stranger.</value>
+			<value>They were used for sacrifices.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world.</value>
+			<value>I found a screenshot of the error report. He reveals that he jumped on a strange ship, went to different places and crashed.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit Cove</key>
-			<value>Starlit Cove</value>
+			<value>A small beach</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Candlelit Tower</key>
-			<value>Candlelit Tower</value>
+			<value>A small beach</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI rode a raft past an island with a tall candlelit tower.</key>
-			<value>I rode a raft past an island with a tall candlelit tower.</value>
+			<value>I approached the shore of the island and the high tower.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveA secluded village nestled within a cove. A candlelit tower sits atop a nearby island.</key>
-			<value>A secluded village nestled within a cove. A candlelit tower sits atop a nearby island.</value>
+			<value>An isolated village in a cave. There is a lighthouse on the nearby island.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveThe well at the bottom of the village is guarded by a statue that activates an alarm bell when it sees me.</key>
-			<value>The well at the bottom of the village is guarded by a statue that activates an alarm bell when it sees me.</value>
+			<value>Below the village is a well-preserved ridge that surrounds the mountains.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI found the remains of a burned-out building on the outskirts of the village.</key>
-			<value>I found the remains of a burned-out building on the outskirts of the village.</value>
+			<value>I saw the remains of a burnt house outside the village.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI reached the tower's upper floors by projecting a path to a second entrance at the back of the tower.</key>
-			<value>I reached the tower's upper floors by projecting a path to a second entrance at the back of the tower.</value>
+			<value>I went to the top floor of the tower and went down the path to another door at the back of the tower.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Well</key>
-			<value>Secret Well</value>
+			<value>It's a good secret.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThe reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
-			<value>The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</value>
+			<value>I found a box with cable and very good security in the room. When the lights go out, the characters end up in a dark hole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>I found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
+			<value>I saw a place where young people are looking for new things like paradise from Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>I found a slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</value>
+			<value>I looked at the world through the eyes of strangers.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal.</key>
-			<value>Intact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal.</value>
+			<value>The first part shows the manufacturer and the launch of the aircraft that receives the green seal.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows two artifacts being lit near a green fire. The first artifact lights after its bearer falls asleep, and the second artifact lights after its bearer dies.</key>
-			<value>I found a slide reel that shows two artifacts being lit near a green fire. The first artifact lights after its bearer falls asleep, and the second artifact lights after its bearer dies.</value>
+			<value>You will see the anchor spin and two screens will appear next to the fire. The first device works when the user is asleep and the second device works when the user is unconscious.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of the Stranger's inhabitants.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of the Stranger's inhabitants.</value>
+			<value>I found a screenshot of the error report. It shows that the watch does not stand out from the crowd.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless Canyon</key>
-			<value>Endless Canyon</value>
+			<value>An endless valley</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonI rode a raft through the bottom of a massive canyon. It looks like there are buildings set into the cliff face high above.</key>
-			<value>I rode a raft through the bottom of a massive canyon. It looks like there are buildings set into the cliff face high above.</value>
+			<value>I went down a big rope. There is a house on the cliff.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonA massive canyon that stretches into the distance. A candlelit lodge is built into the far cliff face.</key>
-			<value>A massive canyon that stretches into the distance. A candlelit lodge is built into the far cliff face.</value>
+			<value>A large lighthouse screen is built on the far cliff.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonI found a mural of a large tree on the bottom floor of the lodge.</key>
-			<value>I found a mural of a large tree on the bottom floor of the lodge.</value>
+			<value>I saw a picture of a thick tree on the first floor of the guest house.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Mural</key>
-			<value>Secret Mural</value>
+			<value>A hidden wall</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThe reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</key>
-			<value>The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</value>
+			<value>I found a box with cable and very good security in the room. The lights are dim and the box shapes lead to a large wooden wall.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-			<value>I found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</value>
+			<value>I saw a group of aliens flying with green fire.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the creation of a simulated reality modeled after their home moon.</key>
-			<value>Intact slides reveal the creation of a simulated reality modeled after their home moon.</value>
+			<value>A small section explains the composition of its months.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants dropping their artifact on the ground and walking beyond its projection radius.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants dropping their artifact on the ground and walking beyond its projection radius.</value>
+			<value>I found a screenshot of the error report. Visitors make their art by placing it on the floor next to the radio.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s Camp</key>
-			<value>Chert’s Camp</value>
+			<value>Satan’s camp</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has set up their astronomy gear on the north pole of Ember Twin.</key>
-			<value>Chert has set up their astronomy gear on the north pole of Ember Twin.</value>
+			<value>Chert artisans make their own amber jewelry in the north.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has spotted an unusually high number of supernovae recently.</key>
-			<value>Chert has spotted an unusually high number of supernovae recently.</value>
+			<value>Chert has seen many supernovae recently.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampAll of the stars in the universe are dying, including our sun.</key>
-			<value>All of the stars in the universe are dying, including our sun.</value>
+			<value>All the stars in the sky and our sun will die.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampThe stars are simply dying from old age. Apparently they're much older than we realized.</key>
-			<value>The stars are simply dying from old age. Apparently they're much older than we realized.</value>
+			<value>Famous people die easily of old age. Here's what we know.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has become catatonic in response to our sun's imminent death.</key>
-			<value>Chert has become catatonic in response to our sun's imminent death.</value>
+			<value>Due to sunlight, chert becomes cationic.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon Locator</key>
-			<value>Quantum Moon Locator</value>
+			<value>Like the problem of the month</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon LocatorA Nomai device created to track the Quantum Moon's location.</key>
-			<value>A Nomai device created to track the Quantum Moon's location.</value>
+			<value>Nomai is a tool designed for satellite location tracking.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon LocatorThe Nomai hypothesized that the Quantum Moon might be a form of macroscopic quantum mechanics.</key>
-			<value>The Nomai hypothesized that the Quantum Moon might be a form of macroscopic quantum mechanics.</value>
+			<value>The name suggests how good engineering works.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon LocatorThe Quantum Moon travels to at least five locations, but sometimes the locator can't tell where the moon is.</key>
-			<value>The Quantum Moon travels to a total of five locations.</value>
+			<value>The sign of the Moon goes to five places.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonThe Nomai shuttle that's frozen on the Interloper can be called home to the gravity cannon on Ember Twin.</key>
-			<value>The Nomai shuttle that's frozen on the Interloper can be called home to the gravity cannon on Ember Twin.</value>
+			<value>Nomayi goes with Trespasser, where he does something powerful that kills Ash.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonI recalled a Nomai shuttle from the Interloper.</key>
-			<value>I recalled a Nomai shuttle from the Interloper.</value>
+			<value>Reminds me of the spaceship from Interloper.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2</key>
-			<value>Escape Pod 2</value>
+			<value>Pod 2;</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod</key>
-			<value>Escape Pod</value>
+			<value>Run away</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of the three Nomai escape pods landed somewhere on the Hourglass Twins.</key>
-			<value>One of the three Nomai escape pods landed somewhere on the Hourglass Twins.</value>
+			<value>One of the three ran away and took over. It is measured in double hours.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Shipwreck</key>
-			<value>Nomai Shipwreck</value>
+			<value>Noah's Ark</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere.</key>
-			<value>Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere.</value>
+			<value>Chert spots the sinking Noma and heads south towards the Twins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>One of three Nomai escape pods that crashed in our solar system.</value>
+			<value>A nomad fell under the sun.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>All three escape pods were launched from something called the Vessel, which was badly damaged.</value>
+			<value>The three escape routes were built on heavily damaged ships.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy Lab</key>
-			<value>High Energy Lab</value>
+			<value>Strong work</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator).</key>
-			<value>The negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator).</value>
+			<value>Passive parameters are measured at the main laboratory's Biala site (in summer at Amber Double Valley).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Ash Twin Project was planned at the High Energy Lab, a building with large solar panels on Ember Twin’s equator.</key>
-			<value>The Ash Twin Project was planned at the High Energy Lab, a building with large solar panels on Ember Twin’s equator.</value>
+			<value>The Ash Twin project is located in a power station that collects most of the solar energy in the Amber Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe High Energy Lab can only be accessed by a path from the Sunless City.</key>
-			<value>The High Energy Lab can only be accessed by a path from the Sunless City.</value>
+			<value>Energy Labs can be found in neutral cities.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai successfully reproduced the temporal anomaly first observed at the White Hole Station (warped objects appear to arrive before they depart).</key>
-			<value>The Nomai successfully reproduced the temporal anomaly first observed at the White Hole Station (warped objects appear to arrive before they depart).</value>
+			<value>For the first time, Nomai manages to create an anomaly at Whitehall Station (this anomaly appears to have occurred before he left).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai discovered they could increase the negative time interval between arrival and departure by adding energy to the warp cores.</key>
-			<value>The Nomai discovered they could increase the negative time interval between arrival and departure by adding energy to the warp cores.</value>
+			<value>Nomai found that they could increase the time between entry and exit by increasing power at the baseline.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project.</key>
-			<value>The Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well as an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project.</value>
+			<value>Nomai thinks the problem is at 22 minutes. They decided to improve the base of the line by using new technologies to capture and store the required energy. Ash Twain is the originator of the project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower Designs</key>
-			<value>Ash Twin Tower Designs</value>
+			<value>Ash Towers Project</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsThere are tower designs in the High Energy Lab that reveal each warp receiver's location.</key>
-			<value>There are tower designs in the High Energy Lab that reveal each warp receiver's location.</value>
+			<value>In the shop there is a long table where all the things that can be repaired are written.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsDesigns for each of the towers on Ash Twin's equator.</key>
-			<value>Designs for each of the towers on Ash Twin's equator.</value>
+			<value>World plan of the Bürgen Columbarium.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsEach tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet).</key>
-			<value>Each tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet).</value>
+			<value>Each sign corresponds to a different planet (although most Bedouins know that the sun is not a planet).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsEach tower was designed to visually reflect its warp destination.</key>
-			<value>Each tower was designed to visually reflect its warp destination.</value>
+			<value>Each tower is designed to reflect your environment.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsThe towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project.</key>
-			<value>The towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project.</value>
+			<value>The Tower of Noma allows quick switching between the living twins and the rest, which is very useful in the Ash Twins project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless City</key>
-			<value>The Sunless City</value>
+			<value>The city where the sun was born</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai survivors who crashed on Ember Twin decided to seek shelter in the caves beneath their crashed escape pod.</key>
-			<value>The Nomai survivors who crashed on Ember Twin decided to seek shelter in the caves beneath their crashed escape pod.</value>
+			<value>The survivors of Numa faced four situations and decided to flee through the caves below the crater to escape the disaster.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.</key>
-			<value>The Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.</value>
+			<value>Nomi saw a tall building at the end of one of the underground passages.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Underground Settlement</key>
-			<value>Underground Settlement</value>
+			<value>Underground village</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityChert thinks the lack of surface ruins means the Nomai must have lived somewhere underground.</key>
-			<value>Chert thinks the lack of surface ruins means the Nomai must have lived somewhere underground.</value>
+			<value>Chert believes that aliens must live underground above the surface of the ruins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThere is a path leading to the High Energy Lab from the Sunless City.</key>
-			<value>There is a path leading to the High Energy Lab from the Sunless City.</value>
+			<value>The path from the Sunless City to the Great Lab.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityI found a trailmarker for the the Sunless City, but the path is blocked.</key>
-			<value>I found a trailmarker for the the Sunless City, but the path is blocked.</value>
+			<value>I found my way to the big city, but it was closed.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityA Nomai city built into the walls of a huge underground cavern. The city is divided vertically into four districts.</key>
-			<value>A Nomai city built into the walls of a huge underground cavern. The city is divided vertically into four districts.</value>
+			<value>The Bedouin city was built on the lower wall of the Great Cave. The city is divided into four districts.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</key>
-			<value>The Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</value>
+			<value>Nomi talks to Ash Twin Project about building a power plant. Many Nomai protested their actions and said they will not destroy the world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
-			<value>The Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</value>
+			<value>Nomi came to this world in search of something supernatural. The source of this mantra is called the Eye of the World.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish Fossil</key>
-			<value>Anglerfish Fossil</value>
+			<value>Fisherman</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilI found a cave with an anglerfish fossil inside, but the opening is only big enough for my scout.</key>
-			<value>I found a cave with an anglerfish fossil inside, but the opening is only big enough for my scout.</value>
+			<value>I saw the cave in the remains of the halibut but it was open for inspection.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.</key>
-			<value>The Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.</value>
+			<value>The Nomai learned to stay away from Haliti (for a long time) by studying the bones of the dead in the Amber Twins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Fossil Fish Cave</key>
-			<value>Fossil Fish Cave</value>
+			<value>Cave fish are in trouble.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilNomai children used to play a game in Fossil Fish Cave. There is a way to enter Fossil Fish Cave from Stepping Stone Cave.</key>
-			<value>Nomai children used to play a game in Fossil Fish Cave. There is a way to enter Fossil Fish Cave from Stepping Stone Cave.</value>
+			<value>Bedouin children playing with stuffed fish in a cave. The rock cave stairs lead to the fossil cave.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe entrance from Stepping Stone Cave is hard to see unless the anglerfish is fed a light first.</key>
-			<value>The entrance from Stepping Stone Cave is hard to see unless the anglerfish is fed a light first.</value>
+			<value>It is difficult to enter the cave, even Mr. Huo.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilNomai children used to play a game here. One player was the anglerfish and wore a blindfold. The rest of the children (the littlefish) lined up against one wall. When the anglerfish said go, the littlefish had to sneak across to the other side.</key>
-			<value>Nomai children used to play a game here. One player was the anglerfish and wore a blindfold. The rest of the children (the littlefish) lined up against one wall. When the anglerfish said go, the littlefish had to sneak across to the other side.</value>
+			<value>Naomi's children play here. Fishing is a covered sport. The boy (the fish) is standing on the wall. As the fisherman was walking, he wanted to catch a small fish.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe blindfold rule was added because real anglerfish are blind.</key>
-			<value>The blindfold rule was added because real anglerfish are blind.</value>
+			<value>The law of the blind is added, because the fish are completely blind.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe adult Nomai were delighted to see the children incorporate their research into the game's rules.</key>
-			<value>The adult Nomai were delighted to see the children incorporate their research into the game's rules.</value>
+			<value>Older Numa kids love to learn the rules of the game.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Caves</key>
-			<value>Quantum Caves</value>
+			<value>His number</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesThe Nomai detected a quantum signal coming from somewhere on the Hourglass Twins.</key>
-			<value>The Nomai detected a quantum signal coming from somewhere on the Hourglass Twins.</value>
+			<value>Nomai found another indication of how punctual he was.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesThe Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere.</key>
-			<value>The Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere.</value>
+			<value>Nomi finds another moving stone in several caves to the north of the Twin Ember world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesI found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
-			<value>I found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</value>
+			<value>I saw a strange rock moving invisibly. A signal is sent at startup.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed Cave</key>
-			<value>Lakebed Cave</value>
+			<value>in</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveThe wandering rock was first spotted in a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-			<value>The wandering rock was first spotted in a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</value>
+			<value>This common stone was originally found in a cave at the bottom of a dry lake in the Amber Arctic Twins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveA Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-			<value>A Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</value>
+			<value>A man named Coleus goes to a secret cave under a dry lake to the Amber Twins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveA Nomai named Coleus was standing on the wandering rock when another Nomai's lantern died. When they relit the lantern, Coleus and the rock were both gone.</key>
-			<value>A Nomai named Coleus was standing on the wandering rock when another Nomai's lantern died. When they relit the lantern, Coleus and the rock were both gone.</value>
+			<value>Nomai Torch is dead, standing on a floating stone called Caliper. Rocks and stones disappear into the light.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveTo travel with a quantum object, I must stand on the object and cease to observe my surroundings (meaning I must be in complete darkness). Coleus used this quantum rule to escape the cave he was trapped in.</key>
-			<value>To travel with a quantum object, I must stand on the object and cease to observe my surroundings (meaning I must be in complete darkness). Coleus used this quantum rule to escape the cave he was trapped in.</value>
+			<value>To keep up with things, I have to stay within myself and not pay attention to my surroundings (ie in the dark). How many bases did Hill use in the dugout?</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveColeus and Merolae returned to examine the rock. They theorized that when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they both move together.</key>
-			<value>Coleus and Melorae returned to examine the rock. They theorized that when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they both move together.</value>
+			<value>Coleus and Melora looked at the stone. The experimenter knows that it stops when it encounters a quantum object. Anything can be added to this and the two go hand in hand.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai Shuttle</key>
-			<value>Frozen Nomai Shuttle</value>
+			<value>A solid delivery truck</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleI found a Nomai shuttle almost completely encased in ice.</key>
-			<value>I found a Nomai shuttle almost completely encased in ice.</value>
+			<value>I saw that the ice boat was almost frozen.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThe Nomai landed on the Interloper not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-			<value>The Nomai landed on the Interloper not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+			<value>After a while in the universe, Nomai meets Interloper. The motorcyclist felt a strange force in the sky below.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThere were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper.</key>
-			<value>There were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper.</value>
+			<value>Three Nomai lived in the boat. One stays on the bike and the other two face the participants.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleClary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface.</key>
-			<value>Clary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface.</value>
+			<value>Clary and Norm lose their relationship when they go down.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured Core</key>
-			<value>Ruptured Core</value>
+			<value>The teeth of the heart</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subsurface Energy Readings</key>
-			<value>Subsurface Energy Readings</value>
+			<value>Learn the power of the Earth</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThe shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-			<value>The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+			<value>The motorcyclist felt a strange force in the sky below.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreTwo of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.</key>
-			<value>Two of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.</value>
+			<value>Two climbers find a lake in the snow on the sunny side of the interlop. It appeared.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreI found the two missing members of the Nomai shuttle crew near a large ruptured stone that looks like it exploded from the inside.</key>
-			<value>I found the two missing members of the Nomai shuttle crew near a large ruptured stone that looks like it exploded from the inside.</value>
+			<value>He found two Rota members walking lost near a huge cracked rock that was exploding inside.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThe Nomai traced the strange energy readings to a spherical stone casing filled with some form of exotic matter.</key>
-			<value>The Nomai traced the strange energy readings to a spherical stone casing filled with some form of exotic matter.</value>
+			<value>Noah's great power was manifested and the round stone was filled with new things.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThey determined the exotic matter was both lethal and under extreme pressure. If the stone were to rupture, the exotic matter within would rapidly expand, completely blanketing the solar system almost instantaneously.</key>
-			<value>They determined the exotic matter was both lethal and under extreme pressure. If the stone were to rupture, the exotic matter within would rapidly expand, completely blanketing the solar system almost instantaneously.</value>
+			<value>They think it's deadly and the pressure is too high. If the stone falls, its contents will increase, and the sun will quickly disappear.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreOne of the Nomai stayed behind to examine the alien matter while the other rushed back to the surface to warn the rest of the Nomai.</key>
-			<value>One of the Nomai stayed behind to examine the alien matter while the other rushed back to the surface to warn the rest of the Nomai.</value>
+			<value>Naomi sat outside and watched until someone came to talk to Naomi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean Depths</key>
-			<value>Ocean Depths</value>
+			<value>sea level</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsGabbro says there’s a strong current beneath the surface of the ocean that prevents anything from sinking below it.</key>
-			<value>Gabbro says there’s a strong current beneath the surface of the ocean that prevents anything from sinking below it.</value>
+			<value>According to gabbro, there are strong veins under the sea that prevent it from collapsing.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible.</key>
-			<value>The Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible.</value>
+			<value>In the building Naomi sees something underwater, which she thought was impossible.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsFeldspar found a way to reach the core of Giant’s Deep.</key>
-			<value>Feldspar found a way to reach the core of Giant’s Deep.</value>
+			<value>Fieldstone found his way to the heart of the Great Storm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core.</key>
-			<value>The ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core.</value>
+			<value>The sea is calm under the water. Different sources of energy around the world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsI passed through the electric barrier and reached the coral forest at the planet's core.</key>
-			<value>I passed through the electric barrier and reached the coral forest at the planet's core.</value>
+			<value>You travel for a while and you reach Marjan in the middle of the country.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s Island</key>
-			<value>Gabbro’s Island</value>
+			<value>be careful i</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro</key>
-			<value>Gabbro</value>
+			<value>A balloon</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandHal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory.</key>
-			<value>Hal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory.</value>
+			<value>Helgabro says he went back to the Valley of the Giants to find out about Norma's statue in the castle.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro is lounging in a hammock near the island’s shore.</key>
-			<value>Gabbro is lounging in a hammock near the island’s shore.</value>
+			<value>It is located on the mountainous coast of Gabru Island.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro found a Nomai statue on another island. The statue's eyes started glowing and Gabbro saw their memories flash before their eyes.</key>
-			<value>Gabbro found a Nomai statue on another island. The statue's eyes started glowing and Gabbro saw their memories flash before their eyes.</value>
+			<value>Jabro found a picture of Norma on another island. The simulation began to flash, and Gabru saw a flash of memory.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue.</key>
-			<value>Gabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue.</value>
+			<value>Gabriel felt dead. Memories appear like images in their eyes.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro and I seem to be the only ones aware that we're in a time loop.</key>
-			<value>Gabbro and I seem to be the only ones aware that we're in a time loop.</value>
+			<value>All I knew was that Gabru and I didn't have much time.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction Yard</key>
-			<value>Construction Yard</value>
+			<value>When was it done?</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThe Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.</key>
-			<value>The Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.</value>
+			<value>They designed a group of names in the yard of Rapa Falls.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThis island is where the Nomai built the Orbital Probe Cannon.</key>
-			<value>This island is where the Nomai built the Orbital Probe Cannon.</value>
+			<value>This is the island where Nomai built the orbital probe.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardFor some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire.</key>
-			<value>For some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire.</value>
+			<value>This led to the release of the Nome Railgun. He is not a smoke writer.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardAccording to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon.</key>
-			<value>According to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon.</value>
+			<value>Nomai's computer says it has found a healthy circuit in the distance.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Bramble Island</key>
-			<value>Bramble Island</value>
+			<value>Aspen Island</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Bramble IslandAn island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble.</key>
-			<value>An island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble.</value>
+			<value>The island is full of bad grapes, the island is like a cold fish. Feldspar seems to have settled here before Blackthorn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue Island</key>
-			<value>Statue Island</value>
+			<value>Robin Island</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandOne of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth.</key>
-			<value>One of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth.</value>
+			<value>On the coast of Gabron in the middle of Timber, on one of the islands in the Great Sea, there is a statue of Numa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandStatue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.</key>
-			<value>Statue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.</value>
+			<value>The island of Ardzan (also called Gabru) consists of two islands connected by a common wall.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandThis island must be where the Nomai created statues like the one in our observatory.</key>
-			<value>This island must be where the Nomai created statues like the one in our observatory.</value>
+			<value>This is the island where Naomi built our castle.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandI found a Nomai statue lying on the beach. It looks just like the one in our observatory.</key>
-			<value>I found a Nomai statue lying on the beach. It looks just like the one in our observatory.</value>
+			<value>I saw a photo at Naomi Beach. This is our castle.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue Workshop</key>
-			<value>Statue Workshop</value>
+			<value>Learn art.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopI found a sign for a "Statue Workshop" next to a broken door that used to lead inside the island.</key>
-			<value>I found a sign for a "Statue Workshop" next to a broken door that used to lead inside the island.</value>
+			<value>Near the cracked door leading to the island, I found a sign that said "No Training."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopSome Nomai children debated bypassing the Statue Workshop's door and sneaking inside via an alternate (more dangerous) route.</key>
-			<value>Some Nomai children debated bypassing the Statue Workshop's door and sneaking inside via an alternate (more dangerous) route.</value>
+			<value>One of Noma's children struggled to find another (worse) in art.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island Interior</key>
-			<value>Island Interior</value>
+			<value>An island in the sea</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopI can see into a large cave from one of the ruins on top of the island. The bottom of the cave is filled with water.</key>
-			<value>I can see into a large cave from one of the ruins on top of the island. The bottom of the cave is filled with water.</value>
+			<value>I saw huge ruins on the island. Below the line is full of water.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopNomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.</key>
-			<value>Nomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.</value>
+			<value>Nomai is designed to attach an image to the user's memory, save the memory to a memory stick, and load it.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopEach storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</key>
-			<value>Each storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</value>
+			<value>Each volume of the Ash system has a mask (display) that can transmit stored data to the user.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopThe statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</key>
-			<value>The statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</value>
+			<value>These images were created after the successful Ash Twin project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials</key>
-			<value>Tower of Quantum Trials</value>
+			<value>Research Tower</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai detected a Quantum signal coming from somewhere on Giant’s Deep.</key>
-			<value>The Nomai detected a Quantum signal coming from somewhere on Giant’s Deep.</value>
+			<value>Nomai finds a symbol in a large file.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThis tower held knowledge a Nomai needed to make his or her first quantum journey.</key>
-			<value>This tower held knowledge a Nomai needed to make his or her first quantum journey.</value>
+			<value>This tower contains information about Nomai's jumping distance.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials"Observing a quantum object; observing an image of a quantum object. These are the same."</key>
-			<value>"Observing a quantum object; observing an image of a quantum object. These are the same."</value>
+			<value>"Seeing a quantum object when it is a quantum object. It is".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai called this the "Rule of Quantum Imaging."</key>
-			<value>The Nomai called this the "Rule of Quantum Imaging."</value>
+			<value>Naomi called it "the law of nature."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials"Remember, the other quantum shards have other lessons to teach."</key>
-			<value>"Remember, the other quantum shards have other lessons to teach."</value>
+			<value>"Remember how much mechanics is taught in other subjects."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon</key>
-			<value>Quantum Moon</value>
+			<value>like the moon</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
-			<key>Quantum MoonThe Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</key>
-			<value>The Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</value>
+			<key>Nomai saw the new moon in the soft sky above Cavus.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Ember Twin observed a moon that would disappear when no one was watching.</key>
-			<value>The Nomai on Ember Twin observed a moon that would disappear when no one was watching.</value>
+			<value>Naomi saw the twin red moons passing by, and no one was looking at her.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonA Nomai named Solanum landed a shuttle on the Quantum Moon.</key>
-			<value>A Nomai named Solanum landed a shuttle on the Quantum Moon.</value>
+			<value>Pirate Solanum in Quantum Moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonChert’s research notes mention a Quantum Moon that no Hearthian has been able to land on.</key>
-			<value>Chert’s research notes mention a Quantum Moon that no Hearthian has been able to land on.</value>
+			<value>According to Chert's research, none of the Hartys made it to the Quantum Moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonI was able to land on the surface of the Quantum Moon.</key>
-			<value>I was able to land on the surface of the Quantum Moon.</value>
+			<value>I tried to cut the ceiling Very bright</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonI found a dead Nomai in a space suit near the south pole.</key>
-			<value>I found a dead Nomai in a space suit near the south pole.</value>
+			<value>I found Numa dead in the pigeon hole near the post office on the left.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Solanum's Shuttle</key>
-			<value>Solanum's Shuttle</value>
+			<value>Night trip</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Solanum's ShuttleA Nomai named Solanum landed her shuttle at the Quantum Moon's south pole and prepared to make the rest of the journey on foot.</key>
-			<value>A Nomai named Solanum landed her shuttle at the Quantum Moon's south pole and prepared to make the rest of the journey on foot.</value>
+			<value>A sailor named Solanus lands his ship on the lower side of the moon and plans the rest of the journey.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Solanum's ShuttleVisitors to the Quantum Moon always arrive at the south pole (for reasons unknown to the Nomai).</key>
-			<value>Visitors to the Quantum Moon always arrive at the south pole (for reasons unknown to the Nomai).</value>
+			<value>The number of visitors may be high (Nomai doesn't know why).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shrine</key>
-			<value>Quantum Shrine</value>
+			<value>What is culture?</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShrineThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location.</key>
-			<value>The Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location.</value>
+			<value>Numa temples dedicated to the six phases of the moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShrineA Nomai shrine that wanders about the Quantum Moon.</key>
-			<value>A Nomai shrine that wanders about the Quantum Moon.</value>
+			<value>The Temple of Nume is located on the Quantum Moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shrine"You have recalled the rule of quantum imaging" is inscribed next to a mural of a tower on an island.</key>
-			<value>"You have recalled the rule of quantum imaging" is inscribed next to a mural of a tower on an island.</value>
+			<value>"Remember the Law of Equality" is written near the wall of the tower.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shrine"Recall the rule of quantum entanglement" is inscribed next to a mural of a quantum shard in a cave.</key>
-			<value>"Recall the rule of quantum entanglement" is inscribed next to a mural of a quantum shard in a cave.</value>
+			<value>"Remember the rule" is written next to the giant picture in the cave.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shrine"Recall the rule of the sixth location" is inscribed next to a mural of a tower hanging above a black hole.</key>
-			<value>"Recall the rule of the sixth location" is inscribed next to a mural of a tower hanging above a black hole.</value>
+			<value>Next to a picture of a tower above a black hole is written: "Remember the rules."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth Location</key>
-			<value>Sixth Location</value>
+			<value>Sixth place</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Quantum Moon sometimes disappears, possibly to an unknown sixth location.</key>
-			<value>The Quantum Moon sometimes disappears, possibly to an unknown sixth location.</value>
+			<value>How the light sometimes goes out, maybe at the sixth point.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationMany Nomai went on a pilgrimage during which the Quantum Moon carried them to its sixth and most secret location.</key>
-			<value>Many Nomai went on a pilgrimage during which the Quantum Moon carried them to its sixth and most secret location.</value>
+			<value>Most of the Nomai were still alive when Luna Quantum brought them to Sixth and Banga.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationTo explore the sixth location, the shrine on the Quantum Moon must be on the moon’s north pole.</key>
-			<value>To explore the sixth location, the shrine on the Quantum Moon must be on the moon’s north pole.</value>
+			<value>Referring to the sixth dimension, the Temple of Quantum Luna is located at the poles of the moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationI met a living Nomai named Solanum at the south pole!</key>
-			<value>I met a living Nomai named Solanum at the south pole!</value>
+			<value>When he arrived there, he found a living man named Solanus.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Quantum Moon is the Eye of the universe's moon.</key>
-			<value>The Quantum Moon is the Eye of the universe's moon.</value>
+			<value>The light of the earth's surface is like the moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationAt this location, the Quantum Moon becomes a reflection of the Eye itself.</key>
-			<value>At this location, the Quantum Moon becomes a reflection of the Eye itself.</value>
+			<value>Here the light becomes a selfie.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Eye is likely the source of all macroscopic quantum phenomena in the solar system.</key>
-			<value>The Eye is likely the source of all macroscopic quantum phenomena in the solar system.</value>
+			<value>Telescopes can obtain information about all macroscopic aspects of the solar system.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationSolanum wonders what would happen if a concious observer were to enter the Eye.</key>
-			<value>Solanum wonders what would happen if a concious observer were to enter the Eye.</value>
+			<value>Solanus predicted what would happen to those who wanted to see him.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationSolanum has a hypothesis that she may not be entirely alive.</key>
-			<value>Solanum has a hypothesis that she may not be entirely alive.</value>
+			<value>He thinks that Solanum is bad.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun Station</key>
-			<value>Sun Station</value>
+			<value>Your seat</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThere is a way to safely travel to the Sun Station from Ash Twin.</key>
-			<value>There is a way to safely travel to the Sun Station from Ash Twin.</value>
+			<value>Safe travels from Ash Wednesday to Sun.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai debated building a Sun Station in order to power the Ash Twin Project.</key>
-			<value>The Nomai debated building a Sun Station in order to power the Ash Twin Project.</value>
+			<value>Nomi talks to Ash Twin Project about building a power plant.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai built something called the Sun Station, but not everyone supported its construction.</key>
-			<value>The Nomai built something called the Sun Station, but not everyone supported its construction.</value>
+			<value>Nomai built the Langa station, but not everyone was behind the construction.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Sun Station was designed to make the sun go supernova.</key>
-			<value>The Sun Station was designed to make the sun go supernova.</value>
+			<value>The Sun Ray Orb is made for the soul.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai fired the Sun Station but it had no effect on the sun. They concluded that the Sun Station could never cause the sun to go supernova.</key>
-			<value>The Nomai fired the Sun Station but it had no effect on the sun. They concluded that the Sun Station could never cause the sun to go supernova.</value>
+			<value>Noah followed the sun, but did not reach it. They decided that the sun does not move the sun.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationAfter the failure of the Sun Station, the Nomai took a break to investigate the newly arrived comet.</key>
-			<value>After the failure of the Sun Station, the Nomai took a break to investigate the newly arrived comet.</value>
+			<value>After sunset, Nomai continued to study the nova.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationAccording to a Nomai computer, our sun has reached the end of its natural life cycle.</key>
-			<value>According to a Nomai computer, our sun has reached the end of its natural life cycle.</value>
+			<value>According to Nomai's computer, the sun has reached the end of its life.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Esker’s Camp</key>
-			<value>Esker’s Camp</value>
+			<value>Camp</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Esker’s CampSounds like Esker is still stationed on the Attlerock. They’ve been there by themself for a while.</key>
-			<value>Sounds like Esker is still stationed on the Attlerock. They’ve been there by themself for a while.</value>
+			<value>They say there is always sadness in the afterlife. They are alone for a long time.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Esker’s CampEsker is growing a crop of trees at their camp. They seemed to be doing ok, but they’ve probably been alone on the moon for too long.</key>
-			<value>Esker is growing a crop of trees at their camp. They seemed to be doing ok, but they’ve probably been alone on the moon for too long.</value>
+			<value>Oscar planted trees in the camp. They say they work well, but only for a few months.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar Lookout</key>
-			<value>Lunar Lookout</value>
+			<value>Clear direction</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar LookoutEsker says the Attlerock’s north pole (marked in red on my minimap) is a great spot to listen for the other travelers’ music with a signalscope.</key>
-			<value>Esker says the Attlerock’s north pole (marked in red on my minimap) is a great spot to listen for the other travelers’ music with a signalscope.</value>
+			<value>According to Iskar, Arctic Ataloko (marked in red on my map) is a good place to hear other songbirds.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar LookoutA lookout platform with a spectacular view of the solar system. Esker uses their signalscope here to keep tabs on the other travelers.</key>
-			<value>A lookout platform with a spectacular view of the solar system. Esker uses their signalscope here to keep tabs on the other travelers.</value>
+			<value>Great views of the tower during the day. Escort uses its trademark here to review other tours..</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal Locator</key>
-			<value>Eye Signal Locator</value>
+			<value>Choose carefully</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar Ruins</key>
-			<value>Lunar Ruins</value>
+			<value>the moon</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorI hear there are Nomai ruins somewhere on the Attlerock. No one knows what they are or why they were built.</key>
-			<value>I hear there are Nomai ruins somewhere on the Attlerock. No one knows what they are or why they were built.</value>
+			<value>You have heard of the ruins of Atalok Noma. No one knows what it is or why it is.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorThe Nomai text in the observatory talks about calibrating some sort of device on the Attlerock.</key>
-			<value>The Nomai text in the observatory talks about calibrating some sort of device on the Attlerock.</value>
+			<value>A message from Nomai in the window about finding weapons in Atalrock.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorA Nomai device created to pinpoint the sources of distant signals.</key>
-			<value>A Nomai device created to pinpoint the sources of distant signals.</value>
+			<value>Nomai devices are designed to detect distant signals.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorThe Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe.</key>
-			<value>The Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe.</value>
+			<value>Naomi was confused as she saw no sign of the world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Towers</key>
-			<value>Ash Twin Towers</value>
+			<value>Two ashes</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin TowersSeveral large Nomai towers form a ring around Ash Twin's equator.</key>
-			<value>Several large Nomai towers form a ring around Ash Twin's equator.</value>
+			<value>The Equator is flanked by the Twin Ashes, Numa Towers.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin TowersThe White Hole Station was used as a model for these towers, which were built for the Ash Twin Project.</key>
-			<value>The White Hole Station was used as a model for these towers, which were built for the Ash Twin Project.</value>
+			<value>Whitehall station was originally built as a model for the Twin Towers project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Project</key>
-			<value>Ash Twin Project</value>
+			<value>This is a dual project</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe central chamber inside Ash Twin was physically sealed off by an immensely thick protective shell.</key>
-			<value>The central chamber inside Ash Twin was physically sealed off by an immensely thick protective shell.</value>
+			<value>The center of the twin ashes is completely different from the shield.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Nomai planned to construct technology capable of producing a 22-minute negative time interval on Ash Twin.</key>
-			<value>The Nomai planned to construct technology capable of producing a 22-minute negative time interval on Ash Twin.</value>
+			<value>Nomai's goal is to create a technology that will provide the twins with their wretched 22 minutes in the ashes.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectEvery memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.</key>
-			<value>Every memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.</value>
+			<value>The statue that was guarded by the Numa statue was moved to the same place in the ashes.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectAn advanced warp core was approved for installation in the central chamber of Ash Twin.</key>
-			<value>An advanced warp core was approved for installation in the central chamber of Ash Twin.</value>
+			<value>The main element can be placed in its own twin ash.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectA hollowed-out chamber inside Ash Twin. The energy cables from the surface are plugged into a protective casing at the center of the planet.</key>
-			<value>A hollowed-out chamber inside Ash Twin. The energy cables from the surface are plugged into a protective casing at the center of the planet.</value>
+			<value>An empty classroom at Ash's school. Power lines connect the insulation from the ground to the center of the earth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Giant's Deep, and Timber Hearth respectively.</key>
-			<value>There are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Giant's Deep, and Timber Hearth respectively.</value>
+			<value>It has eight monopolies in Numa. All three location stalls should be available at Tracker, Giant Alto, and Timberhearth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Ash Twin Project was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.</key>
-			<value>The Ash Twin Project was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.</value>
+			<value>The Ash Twin project is expected to use supernova energy (produced by the solar system) to track the measurement taken by the cannonball 22 minutes ago.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.</key>
-			<value>The Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.</value>
+			<value>Solar panels don't work. The Twin Ashes project was a great idea, but Nomai couldn't make it happen.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project.</key>
-			<value>There is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project.</value>
+			<value>The protective cover between the surfaces is large and well built. Deleting the data will close the Ashtwin program.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing Site</key>
-			<value>Volcanic Testing Site</value>
+			<value>Volcano tour</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteOre samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing.</key>
-			<value>Ore samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing.</value>
+			<value>Copper samples from Timber Hearth's Nomai mine were sent to Vulcan for hardness testing.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteThe Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.</key>
-			<value>The Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.</value>
+			<value>The aliens attempt to deploy an anti-supernova system to stop the Ash Twin project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteEven the smallest crack or opening in the protective shell would destroy everything.</key>
-			<value>Even the smallest crack or opening in the protective shell would destroy everything.</value>
+			<value>A small space or opening Delete everything from the folder.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole Station</key>
-			<value>White Hole Station</value>
+			<value>Whitehall Station:</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThere is a White Hole Station on the other side of Brittle Hollow's black hole.</key>
-			<value>There is a White Hole Station on the other side of Brittle Hollow's black hole.</value>
+			<value>On the other side of the Black Cave is the falling Whitehall station.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationSeveral Nomai returned to the station to investigate an equipment reading that appeared to violate causality.</key>
-			<value>Several Nomai returned to the station to investigate an equipment reading that appeared to violate causality.</value>
+			<value>He returned to the area to see the history lessons of the Nomai Symbol.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe experiments at the High Energy Lab were based on extraordinary findings from the White Hole Station.</key>
-			<value>The experiments at the High Energy Lab were based on extraordinary findings from the White Hole Station.</value>
+			<value>Career Development Lab Research.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe towers on Ash Twin were modeled after the White Hole Station.</key>
-			<value>The towers on Ash Twin were modeled after the White Hole Station.</value>
+			<value>Two ashlar walls are planned for the Whitehall area.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationEvery Nomai warp tower is tuned to a specific astral body.</key>
-			<value>Every Nomai warp tower is tuned to a specific astral body.</value>
+			<value>Each Nomai tower is associated with a specific star.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationTo use a tower, you must be standing on the warp platform during the tower's alignment with its corresponding astral body (the alignment happens when the astral body is directly overhead).</key>
-			<value>To use a tower, you must be standing on the warp platform during the tower's alignment with its corresponding astral body (the alignment happens when the astral body is directly overhead).</value>
+			<value>To use the tower, you must fight the tower and the star next to it (preferably a standing star).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.</key>
-			<value>The Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.</value>
+			<value>Naomi noticed something unusual. It seems that the storm left the party behind before it reached the White House.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThis negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree.</key>
-			<value>This negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree.</value>
+			<value>The delay between input and output is very short (about 100,000 seconds). Nomai wondered if his design could be modified on a smaller scale.</value>
 		</TranslationTableEntry>
 	</table_shipLog>
 	<table_ui>
