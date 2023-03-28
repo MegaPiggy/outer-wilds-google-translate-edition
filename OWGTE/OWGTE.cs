@@ -10,7 +10,6 @@ namespace OWGTE
         {
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
             api.RegisterLanguage(this, "GT", "assets/main.xml");
-            api.RegisterLanguage(this, "GTCon", "assets/consistent.xml");
         }
     }
 }
