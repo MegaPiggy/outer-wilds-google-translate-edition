@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
 	"filename": "OWGTE.dll",
 	"author": "Blender Addict",
-	"name": "Outer Wilds: Google Translate edition",
+	"name": "Outer Wilds: Google Translate Edition",
 	"uniqueName": "BlenderAddict.OWGTE",
 	"version": "0.0.2",
 	"owmlVersion": "2.9.0",
