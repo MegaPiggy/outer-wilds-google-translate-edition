@@ -54,7 +54,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: This is the safest path for our clan.</key>
-		<value>IDAEA: It's a safe way for our organization.</value>
+		<value>Comments: It's a safe way for our organization.</value>
 	</entry>
 	<entry>
 		<key>AVENS: Is the safest path the best one? Our goal is worth the risk.</key>
@@ -3980,7 +3980,7 @@
 			BUR: I added a marker for &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;.
 		</key>
 		<value>
-			I accidentally added a &lt;color=lightblue&gt;sad&lt;/color&gt; title.
+			Peel: I accidentally added a &lt;color=lightblue&gt;sad&lt;/color&gt; title.
 		</value>
 	</entry>
 	<entry>
@@ -3988,7 +3988,7 @@
 			BUR: I thought the &lt;color=orange&gt;locator&lt;/color&gt; now accounted for all of the &lt;color=lightblue&gt;phantom moon&lt;/color&gt;’s locations, but sometimes the &lt;color=orange&gt;locator&lt;/color&gt; can’t tell where the moon is. Perhaps there’s a problem with the device?
 		</key>
 		<value>
-			I thought that he sees the &lt;color=lightblue&gt;moon&lt;/color&gt; everywhere, but sometimes he doesn't know where the &lt;color=lightblue&gt;moon&lt;/color&gt; is. Having a problem with the device?
+			Peel: I thought that he sees the &lt;color=lightblue&gt;moon&lt;/color&gt; everywhere, but sometimes he doesn't know where the &lt;color=lightblue&gt;moon&lt;/color&gt; is. Having a problem with the device?
 		</value>
 	</entry>
 	<entry>
@@ -4001,7 +4001,7 @@
 	</entry>
 	<entry>
 		<key>
-			Melorae: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
+			MELORAE: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
 		</key>
 		<value>
 			Milo: If Collis got here, we were there when he disappeared. Two days went by.
@@ -4009,7 +4009,7 @@
 	</entry>
 	<entry>
 		<key>
-			Annona: Your strange, wandering rock friend is here, though Coleus isn’t.
+			ANNONA: Your strange, wandering rock friend is here, though Coleus isn’t.
 		</key>
 		<value>
 			Anna: He is your secret friend, but not Collis.
@@ -4017,7 +4017,7 @@
 	</entry>
 	<entry>
 		<key>
-			Melorae: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
+			MELORAE: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
 		</key>
 		<value>
 			Miller: Collis found these strange stones (and other small stones) in some holes. I do not know whether this is true or not.
@@ -4028,12 +4028,12 @@
 			BUR: What happened before Coleus disappeared?
 		</key>
 		<value>
-			What happens before young Coleus dies?
+			Peel: What happens before young Coleus dies?
 		</value>
 	</entry>
 	<entry>
 		<key>
-			Melorae: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
+			MELORAE: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
 		</key>
 		<value>
 			Melora: We tried different stones. I remember the Kolis standing on a big rock (rock). As I was writing, the light went out.
@@ -4041,10 +4041,10 @@
 	</entry>
 	<entry>
 		<key>
-			Melorae: When I lit it again, Coleus and the rock were both gone.
+			MELORAE: When I lit it again, Coleus and the rock were both gone.
 		</key>
 		<value>
-			As soon as I opened them again, rocks and stones started falling.
+			Melora: As soon as I opened them again, rocks and stones started falling.
 		</value>
 	</entry>
 	<entry>
@@ -4057,7 +4057,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Unsurprisingly, Idaea, I disagree. We’re pushing a possible new technology further than ever before. That, in my experience, is the defining characteristic of our species.</key>
-		<value>Bai does not agree. We are creating new technology that allows more than ever. I think it explains who we are.</value>
+		<value>Bai: does not agree. We are creating new technology that allows more than ever. I think it explains who we are.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Are there other ways to generate this level of power?</key>
@@ -4065,7 +4065,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Theoretically, yes. Practically, no. I can’t imagine discovering them in our lifetimes...</key>
-		<value>Great Bay, of course. I don't think we'll ever meet again in life.</value>
+		<value>Bai: Great Bay, of course. I don't think we'll ever meet again in life.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I understand this proposal is unsettling, but the &lt;color=orange&gt;Sun Station&lt;/color&gt; must be built if we hope to complete the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
@@ -4077,7 +4077,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: The potential annihilation of an entire star system is too severe a cost. We shouldn’t build the &lt;color=orange&gt;Sun Station&lt;/color&gt;, no matter how badly we want the knowledge that comes with it.</key>
-		<value>IDAEA the cost to destroy all the stars is very high. Although we talk about it a lot, we don't want to build a &lt;color=orange&gt;solar system&lt;/color&gt;.</value>
+		<value>Comments: the cost to destroy all the stars is very high. Although we talk about it a lot, we don't want to build a &lt;color=orange&gt;solar system&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>POKE: Fear of failure is a poor reason not to try. I believe, if we’re cautious, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will work. I believe in Pye.</key>
@@ -4425,7 +4425,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: Can’t we change this? I don’t enjoy working in view of such a morbid mission statement.</key>
-		<value>IDAEA can't change? I don't wanna do that.</value>
+		<value>Comments: can't change? I don't wanna do that.</value>
 	</entry>
 	<entry>
 		<key>PYE: But it’s accurate. We’re going to create a supernova for the purpose of scientific progress. That’s our mission.</key>
@@ -4433,7 +4433,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: Our mission is to decide if such an irresponsible feat is even possible.</key>
-		<value>The objective of the IAEA is to determine whether this can be done without change.</value>
+		<value>Comments: The objective is to determine whether this can be done without change.</value>
 	</entry>
 	<entry>
 		<key>PYE: You lack a sense of humor.</key>
@@ -4441,7 +4441,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: At least I don’t lack a sense of ethics!</key>
-		<value>I don't know what to do IDAEA.</value>
+		<value>Comments: I don't know what to do.</value>
 	</entry>
 	<entry>
 		<key>PYE: Kindly refrain from going supernova on me before the &lt;color=lightblue&gt;sun&lt;/color&gt; does, Idaea.</key>
@@ -4629,7 +4629,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: This is easier expressed than accomplished.</key>
-		<value>consider that This is easier said than done.</value>
+		<value>Comments: consider that This is easier said than done.</value>
 	</entry>
 	<entry>
 		<key>PYE: You can wait for the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode on its natural timeline if you prefer, Idaea, but you’ll need to find some way to halt our aging process.</key>
@@ -5341,7 +5341,7 @@
 	</entry>
 	<entry>
 		<key>BUR: I can hear both signals somewhere in this star system, but I don’t believe either escape pod crashed on the same planet as us.</key>
-		<value>bur. I have heard some signs in this star system but I don't think any spacecraft have ever crashed on our planet.</value>
+		<value>Peel: I have heard some signs in this star system but I don't think any spacecraft have ever crashed on our planet.</value>
 	</entry>
 	<entry>
 		<key>
@@ -5471,19 +5471,19 @@
 	</entry>
 	<entry>
 		<key>LAEVI: &lt;i&gt;Rule change&lt;/i&gt;! The anglerfish now has to wear a blindfold. (And do &lt;i&gt;not&lt;/i&gt; peek!)</key>
-		<value>The choice: &lt;i&gt;change the rules&lt;/i&gt;. The hunter must close his eyes. (&lt;i&gt;Don't&lt;/i&gt; look back!)</value>
+		<value>Ravi: The choice: &lt;i&gt;change the rules&lt;/i&gt;. The hunter must close his eyes. (&lt;i&gt;Don't&lt;/i&gt; look back!)</value>
 	</entry>
 	<entry>
 		<key>LAEVI: The rest of us (the littlefish) line up against one wall. When the anglerfish says go, the littlefish sneak across to the other side.</key>
-		<value>cool. We all hit a wall. As soon as the fisherman caught the fish, the small fish hid there.</value>
+		<value>Ravi: cool. We all hit a wall. As soon as the fisherman caught the fish, the small fish hid there.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: If the anglerfish catches you, you’re eaten.</key>
-		<value>If love catches a fish, you will eat it.</value>
+		<value>Ravi: If love catches a fish, you will eat it.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Last littlefish to be caught is the new anglerfish! (The old anglerfish gives the new anglerfish the blindfold and becomes a littlefish.)</key>
-		<value>cool. The last small fish caught by new fishermen. (Bigger fish make room for sight, smaller fish do.)</value>
+		<value>Ravi: cool. The last small fish caught by new fishermen. (Bigger fish make room for sight, smaller fish do.)</value>
 	</entry>
 	<entry>
 		<key>LAMI: Why are we changing it? It’s too hard if you can’t see anything!</key>
@@ -5491,7 +5491,7 @@
 	</entry>
 	<entry>
 		<key>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</key>
-		<value>As they say love, real fish are blind, beware! Let the law stand.</value>
+		<value>Ravi: As they say love, real fish are blind, beware! Let the law stand.</value>
 	</entry>
 	<entry>
 		<key>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</key>
@@ -5503,11 +5503,11 @@
 	</entry>
 	<entry>
 		<key>BUR: I found your note, Melorae; kindly count me among this &lt;color=lightblue&gt;moon&lt;/color&gt;’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?</key>
-		<value>bur. Malware I got your email. Please, please, add your favorites for this &lt;color=lightblue&gt;month&lt;/color&gt;. And if it's gone (I think). Where is he going?</value>
+		<value>Peel: Malware I got your email. Please, please, add your favorites for this &lt;color=lightblue&gt;month&lt;/color&gt;. And if it's gone (I think). Where is he going?</value>
 	</entry>
 	<entry>
 		<key>ANNONA: I believe so. Not only does the moon appear around &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;, I can confirm it sometimes orbits &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, as well.</key>
-		<value>i know. Not only does the Moon in &lt;color=lightblue&gt;Shattered Paradise&lt;/color&gt; change hands, but I guarantee that &lt;color=lightblue&gt;Timberheart&lt;/color&gt; does too from time to time</value>
+		<value>Anon : i know. Not only does the Moon in &lt;color=lightblue&gt;Shattered Paradise&lt;/color&gt; change hands, but I guarantee that &lt;color=lightblue&gt;Timberheart&lt;/color&gt; does too from time to time</value>
 	</entry>
 	<entry>
 		<key>MELORAE: This is my first time encountering a natural satellite with the ability to vanish when not being watched. We should study it! Or, even better, we should travel there!</key>
@@ -5515,7 +5515,7 @@
 	</entry>
 	<entry>
 		<key>BUR: I agree! Our first step would be determining a method to track this &lt;color=lightblue&gt;phantom moon&lt;/color&gt; so that we can always know where it is.</key>
-		<value>I agree with Peel: This is our first step.</value>
+		<value>Peel: I agree. This is our first step.</value>
 	</entry>
 	<entry>
 		<key>ANNONA: Given its reluctance to move while consciously observed, it might be a form of macroscopic quantum mechanics.</key>
@@ -5579,7 +5579,7 @@
 	</entry>
 	<entry>
 		<key>
-			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
+			MELORAE: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
 		</key>
 		<value>
 			inside. The clock is gone. A few days ago he disappeared into the &lt;color=orange&gt;lake&lt;/color&gt; (at the bottom of the frozen lake) and we never saw him again. I don't know how the wind caused the explosion. I am asking my readers to help Kolis.
@@ -5591,7 +5591,7 @@
 	</entry>
 	<entry>
 		<key>BUR: Melorae, some of us from the &lt;color=orange&gt;Sunless City&lt;/color&gt; are here to help search for Coleus. Can you tell us more about your expedition?</key>
-		<value>This book wandered around our &lt;color=orange&gt;dim town&lt;/color&gt; looking for a collector. Tell us about your journey?</value>
+		<value>Peel: This book wandered around our &lt;color=orange&gt;dim town&lt;/color&gt; looking for a collector. Tell us about your journey?</value>
 	</entry>
 	<entry>
 		<key>MELORAE: You have my gratitude, Bur! Coleus and I were studying the caves’ geology. We hoped to learn more about a unique and wandering rock that visits several different caves in the area.</key>
@@ -5955,7 +5955,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: We’re well, Yarrow (or as well as can be expected, given the circumstances), though disappointed. I may have disagreed with exploding the &lt;color=lightblue&gt;sun&lt;/color&gt;, but I never wished the device would fail. I’d hoped our terrible work was finished.</key>
-		<value>think We are safe, even if we are worried, vinegar (hopefully in the area) I don't agree with the &lt;color=lightblue&gt;sun&lt;color&gt;, but I don't want to lose the tools. I hope we did a good job.</value>
+		<value>Comments: think We are safe, even if we are worried, vinegar (hopefully in the area) I don't agree with the &lt;color=lightblue&gt;sun&lt;color&gt;, but I don't want to lose the tools. I hope we did a good job.</value>
 	</entry>
 	<entry>
 		<key>
@@ -7127,7 +7127,7 @@
 	</entry>
 	<entry>
 		<key>Tektite</key>
-		<value>Tektite</value>
+		<value>Taekwondo classes</value>
 	</entry>
 	<entry>
 		<key>Intro1Heyo, hatchling! Thought you were taking that tin can of yours into space today - what’re you still doing here?</key>
@@ -7531,7 +7531,7 @@
 	</entry>
 	<entry>
 		<key>DirtCome to think of it, Tektite saw something crash outside of the village crater earlier. That’s new and different.</key>
-		<value>Come to think of it, Tektite saw something crash outside of the village crater earlier. That’s new and different.</value>
+		<value>We remind you that Taekwondo has also experienced this type of violence. They turned around and saw something behind the village tree. It's fresh and different.</value>
 	</entry>
 	<entry>
 		<key>TuffDirtOh, hey. How ’bout that.</key>
@@ -10579,35 +10579,35 @@
 	</entry>
 	<entry>
 		<key>SignI saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone – Tektite</key>
-		<value>I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone.\\n\\n– Tektite</value>
+		<value>He saw smoke coming from the north side of the train and decided to investigate. You can use the drink trial plan, but cancel it while I'm gone.\\n\\n– Taekwondo classes</value>
 	</entry>
 	<entry>
 		<key>SignBig thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</key>
-		<value>Big thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</value>
+		<value>Many thanks to the other founders of Outer Wilds Ventures. We wouldn't have come this far without them.</value>
 	</entry>
 	<entry>
 		<key>SignMatthew Steinhauer</key>
-		<value>Matthew Steinhauer</value>
+		<value>Death of Steinhauer</value>
 	</entry>
 	<entry>
 		<key>SignBen Etherington</key>
-		<value>Ben Etherington</value>
+		<value>State of Ben Ather ringtone</value>
 	</entry>
 	<entry>
 		<key>SignQwertyuiopThePie</key>
-		<value>QwertyuiopThePie</value>
+		<value>TartKhwatuiopieChartYouTube</value>
 	</entry>
 	<entry>
 		<key>SignJordan Frith</key>
-		<value>Jordan Frith</value>
+		<value>Jordan's Fjord French Fries</value>
 	</entry>
 	<entry>
 		<key>SignTom Cummings</key>
-		<value>Tom Cummings</value>
+		<value>Tom Cummings is the man on the moon and received the Person of the Year award.</value>
 	</entry>
 	<entry>
 		<key>SignSean "sharktemplar" Farrell</key>
-		<value>Sean "sharktemplar" Farrell</value>
+		<value>Farrell's old "Duke's Temple".</value>
 	</entry>
 	<entry>
 		<key>SignSteven Ursell</key>
@@ -11630,12 +11630,20 @@
 			<value>I found a book that showed visitors a secret room, a round room full of lights and walls. He saw people in three beds.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
+			<key>Hidden Vault Seals</key>
+			<value>Hidden Vault Seals</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
 			<key>Secret Passage</key>
 			<value>A secret journey</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
-			<key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, several lamps in the mural room turned on while others turned off, plunging the mural into darkness and revealing a secret passage.</key>
+			<key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.</key>
 			<value>Bright lights in a room near the castle reveal a spiral staircase. Then one of the visitors went under the ring on the wall of the castle and took it down and placed it in Susan's room. After that people appeared on one side of the wall and on the other side the wall collapsed and opened a secret passage.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Symbol RoomThe passage lead to three wooden containers, each marked with a glowing vault seal.</key>
+			<value>The passage led to three wooden containers, each marked with a glowing vault seal.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomA secret room filled with wooden containers marked with different symbols.</key>
@@ -11794,20 +11802,36 @@
 			<value>Yes, the lake</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
+			<key>Enclosed Fire</key>
+			<value>Enclosed Fire</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
 			<key>Fire Chamber</key>
 			<value>The fireplace</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
-			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains and saw a green fire burning inside.</key>
+			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</key>
 			<value>I looked at the door that was blocked by the wall of the big iron house and saw green flames burning.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</key>
+			<value>I looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Vault Room Fire</key>
+			<value>Vault Room Fire</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Missing Vault</key>
 			<value>The Lost Astronomy</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
-			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase and out of sight.</key>
+			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
 			<value>On the wall was a large metal cage with green flames hanging from it, and two men holding chains. They both woke up from the light and ran up the stairs and disappeared.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
+			<value>I saw a vision-like recording of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault.</key>
@@ -11848,6 +11872,10 @@
 		<TranslationTableEntry>
 			<key>Sealed VaultI used the vision torch to share my knowledge of the solar system's history with the Prisoner.</key>
 			<value>Using the lamp, I told the prisoner everything I knew about the story of that day.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Sealed VaultThe Prisoner left one final vision for me by the water's edge as a farewell.</key>
+			<value>The Prisoner left one final vision for me by the water's edge as a farewell.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded Woodlands</key>
@@ -12928,6 +12956,10 @@
 			<value>Do you want to make changes?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
+			<key>148</key>
+			<value>Render Mode</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
 			<key>150</key>
 			<value>Use the default size.</value>
 		</TranslationTableEntryUI>
@@ -13941,7 +13973,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>525</key>
-			<value />
+			<value>Controller disconnected.\\nPlease reconnect your controller.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>526</key>
+			<value>Wireless controller disconnected.\\nPlease reconnect your wireless controller.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>550</key>
@@ -14802,6 +14838,26 @@
 		<TranslationTableEntryUI>
 			<key>992</key>
 			<value>at the same time</value>
+		<TranslationTableEntryUI>
+			<key>995</key>
+			<value>1440p/60fps</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>996</key>
+			<value>2160p/30fps</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>997</key>
+			<value>Dynamic/60fps</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>998</key>
+			<value>1080p/60fps</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>999</key>
+			<value>1440p/30fps</value>
+		</TranslationTableEntryUI>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1000</key>
@@ -15356,6 +15412,26 @@
 			<value>Write the pain in the list of vessels.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
+			<key>1189</key>
+			<value>Enables wireless controller vibration function (wireless controller only).</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1190</key>
+			<value>Enables controller vibration (controller only).</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1191</key>
+			<value>Determines how far (from center) the left/right stick must be tilted before any input is detected. Consider increasing this dead zone if your character moves or looks around when you're not touching the left/right stick.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1192</key>
+			<value>Determines how far (from full tilt) the left/right stick must be released before maximum input is no longer detected. Consider increasing this dead zone if you are unable to move or look at maximum speed.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1193</key>
+			<value>Selects the resolution and framerate to render at.\\nDynamic resolution is ideal for displays with Variable Refresh Rate (VRR) support.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
 			<key>1200</key>
 			<value>Unknown</value>
 		</TranslationTableEntryUI>
@@ -15636,6 +15712,10 @@
 			<value>first</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
+			<key>1409</key>
+			<value>(unsupported)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
 			<key>1410</key>
 			<value>Reduce risk</value>
 		</TranslationTableEntryUI>
@@ -15846,6 +15926,98 @@
 		<TranslationTableEntryUI>
 			<key>1545</key>
 			<value>Add powerful sounds.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1550</key>
+			<value>Would you like to reset your input settings?</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1551</key>
+			<value>Yes</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1552</key>
+			<value>No</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1553</key>
+			<value>Fullscreen</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1554</key>
+			<value>Windowed</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1555</key>
+			<value>Borderless Window</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1556</key>
+			<value>Keyboard Layout</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1557</key>
+			<value>Sets key bindings according to the selected keyboard layout. (Changing this setting resets Keyboard &amp; Mouse bindings to defaults)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1558</key>
+			<value>Switch Pro Controller (unsupported)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1559</key>
+			<value>Switch Slideshow</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1560</key>
+			<value>Resume Expedition</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1561</key>
+			<value>Adjust the slider until the image is barely visable.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1562</key>
+			<value>Apply</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1563</key>
+			<value>Cancel</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1564</key>
+			<value>Gamma</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1565</key>
+			<value>Next</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1566</key>
+			<value>Previous</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1570</key>
+			<value>Vibration Function</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>177</key>
+			<value>UI Size</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1053</key>
+			<value>Auto</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1054</key>
+			<value>Regular</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1055</key>
+			<value>Large</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1194</key>
+			<value>Auto: Size is automatically determined by Language and Platform.\\nRegular/Large: Size is manually locked to the selected option.</value>
 		</TranslationTableEntryUI>
 	</table_ui>
 </TranslationTable_XML>

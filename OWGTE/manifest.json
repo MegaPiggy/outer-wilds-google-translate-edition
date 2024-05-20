@@ -1,12 +1,12 @@
 {
-  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
-  "filename": "OWGTE.dll",
-  "author": "Blender Addict",
-  "name": "Outer Wilds: Google Translate edition",
-  "uniqueName": "BA.OWGTE",
-  "version": "0.0.1",
-  "owmlVersion": "2.7.2",
-  "dependencies": [
-	"xen.LocalizationUtility"
-  ]
+	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+	"filename": "OWGTE.dll",
+	"author": "Blender Addict",
+	"name": "Outer Wilds: Google Translate edition",
+	"uniqueName": "BlenderAddict.OWGTE",
+	"version": "0.0.2",
+	"owmlVersion": "2.9.0",
+	"dependencies": [
+		"xen.LocalizationUtility"
+	]
 }

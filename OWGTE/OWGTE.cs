@@ -8,8 +8,9 @@ namespace OWGTE
         public static OWGTE Instance;
         private void Start()
         {
+            Instance = this;
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
-            api.RegisterLanguage(this, "GT", "assets/main.xml");
+            api.RegisterLanguage(this, "Google Translate", "GT.xml");
         }
     }
 }
