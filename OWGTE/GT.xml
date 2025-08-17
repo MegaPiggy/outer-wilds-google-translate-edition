@@ -7407,39 +7407,39 @@
 	</entry>
 	<entry>
 		<key>Tuff</key>
-		<value>Tuff</value>
+		<value>Shock</value>
 	</entry>
 	<entry>
 		<key>ScaredMiner1Hey, hey. Nice of you to drop down.</key>
-		<value>Hey, hey. Nice of you to drop down.</value>
+		<value>Hey, hey. That's good to fall.</value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1I’m getting some zero-g time in.</key>
-		<value>I’m getting some zero-g time in.</value>
+		<value>I wanted some time in zero graph.</value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1Give me the dirt.</key>
-		<value>Give me the dirt.</value>
+		<value>Give me garbage, now you hotweller</value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1Guess where I’m going today.</key>
-		<value>Guess where I’m going today.</value>
+		<value>Find out where I choose today.</value>
 	</entry>
 	<entry>
 		<key>ScaredMiner2Hey, you’re back. You need something?</key>
-		<value>Hey, you’re back. You need something?</value>
+		<value>Hey, you returned. Do you want anything?</value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Just getting in some zero-g time.</key>
-		<value>Just getting in some zero-g time.</value>
+		<value>I wanted some time in zero graph.</value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Give me the dirt.</key>
-		<value>Give me the dirt.</value>
+		<value>Give me garbage, now you hotweller</value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Guess where I’m going today.</key>
-		<value>Guess where I’m going today.</value>
+		<value>Find out where I choose today.</value>
 	</entry>
 	<entry>
 		<key>ZeroSo you’re going in &lt;i&gt;there&lt;/i&gt;? In the cave? Hnnngh...</key>
@@ -7455,23 +7455,23 @@
 	</entry>
 	<entry>
 		<key>TuffZeroYeah, I’m going to drift around down there for a while.</key>
-		<value>Yeah, I’m going to drift around down there for a while.</value>
+		<value>Yes I have run for a period for zero..</value>
 	</entry>
 	<entry>
 		<key>FineWell you know I hate that cave so I don’t know why you’re making me talk about it.</key>
-		<value>Well you know I hate that cave so I don’t know why you’re making me talk about it.</value>
+		<value>I'll start from the top and not.</value>
 	</entry>
 	<entry>
 		<key>FineFweh... Now I’ve got hand sweats.</key>
-		<value>Fweh... Now I’ve got hand sweats.</value>
+		<value>The king ... I was attended today.</value>
 	</entry>
 	<entry>
 		<key>Sick1Eurgh...</key>
-		<value>Eurgh...</value>
+		<value>Fastit...</value>
 	</entry>
 	<entry>
 		<key>TuffSick1Just going to float upside down and whatnot.</key>
-		<value>Just going to float upside down and whatnot.</value>
+		<value>The forest is only because of no give it easy and say it.</value>
 	</entry>
 	<entry>
 		<key>TuffSick1...Sorry. I’ll stop.</key>
@@ -7479,55 +7479,55 @@
 	</entry>
 	<entry>
 		<key>MotionlessI’m going to sit here and think about flat, motionless rocks for a while.</key>
-		<value>I’m going to sit here and think about flat, motionless rocks for a while.</value>
+		<value>I want to sit here my traditional thinking stones.</value>
 	</entry>
 	<entry>
 		<key>Sick2H-hurk...</key>
-		<value>H-hurk...</value>
+		<value>H-Hork ...</value>
 	</entry>
 	<entry>
 		<key>TuffSick2Just, y’know, ricochet off the walls. Spin around a lot. That kind of thing.</key>
-		<value>Just, y’know, ricochet off the walls. Spin around a lot. That kind of thing.</value>
+		<value>You know the wall. Turned too much. Such things.</value>
 	</entry>
 	<entry>
 		<key>TuffSick2That was too far, wasn’t it.</key>
-		<value>That was too far, wasn’t it.</value>
+		<value>So far?</value>
 	</entry>
 	<entry>
 		<key>Worst1You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-		<value>You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</value>
+		<value>Tea... &lt;color=grey&gt;OP...&lt;/color&gt;&lt;Pause/&gt; you are more.</value>
 	</entry>
 	<entry>
 		<key>TuffWorst1Sorry.</key>
-		<value>Sorry.</value>
+		<value>It is not love.</value>
 	</entry>
 	<entry>
 		<key>TuffWorst1I know.</key>
-		<value>I know.</value>
+		<value>I know I'm angry.</value>
 	</entry>
 	<entry>
 		<key>Worst2You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-		<value>You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</value>
+		<value>Tea... &lt;color=grey&gt;OP...&lt;/color&gt;&lt;Pause/&gt; you are more.</value>
 	</entry>
 	<entry>
 		<key>TuffWorst2I know.</key>
-		<value>I know.</value>
+		<value>I know I'm angry.</value>
 	</entry>
 	<entry>
 		<key>GuessOh, no. Nooooo, no no no.&lt;Pause/&gt; No way.</key>
-		<value>Oh, no. Nooooo, no no no.&lt;Pause/&gt; No way.</value>
+		<value>No. Name, not.&lt;Pause/&gt; In no way.</value>
 	</entry>
 	<entry>
 		<key>GuessYou want to run off into space, that’s your business, but don’t make me, you know, &lt;i&gt;think&lt;/i&gt; about it.</key>
-		<value>You want to run off into space, that’s your business, but don’t make me, you know, &lt;i&gt;think&lt;/i&gt; about it.</value>
+		<value>Want out into space, this is your business. But don't let me know I'm &lt;i&gt;thinking&lt;/i&gt; about it.</value>
 	</entry>
 	<entry>
 		<key>GuessBad enough we got this weird cave down here...</key>
-		<value>Bad enough we got this weird cave down here...</value>
+		<value>Absolutely, we had this strange cave here ...</value>
 	</entry>
 	<entry>
 		<key>DirtSome fresh dirt? Not much happening down here lately. Let me think...</key>
-		<value>Some fresh dirt? Not much happening down here lately. Let me think...</value>
+		<value>New trash? There is no much here. Think I ...</value>
 	</entry>
 	<entry>
 		<key>DirtCome to think of it, Tektite saw something crash outside of the village crater earlier. That’s new and different.</key>
@@ -7535,111 +7535,111 @@
 	</entry>
 	<entry>
 		<key>TuffDirtOh, hey. How ’bout that.</key>
-		<value>Oh, hey. How ’bout that.</value>
+		<value>Hi. How is it.</value>
 	</entry>
 	<entry>
 		<key>TuffDirtIs anything on fire?</key>
-		<value>Is anything on fire?</value>
+		<value>Is it a fire?</value>
 	</entry>
 	<entry>
 		<key>Probe1Yeah, they were on firewatch with the old scout launcher and saw smoke, so they went to check it out. “Safety first,” right?</key>
-		<value>Yeah, they were on firewatch with the old scout launcher and saw smoke, so they went to check it out. "Safety first," right?</value>
+		<value>Yes, he saw the smoke in the old scachet, so they went to try them. "From House Protection," Isn't it?</value>
 	</entry>
 	<entry>
 		<key>Probe1...No, I’m kidding. I said that to Tektite once. Pretty rude how long they laughed for, if you ask me.</key>
-		<value>...No, I'm kidding. I said that to Tektite once. Pretty rude how long they laughed for, if you ask me.</value>
+		<value>... no i'm kidding. I told Taekwondo once me. If you ask me how much laughter of me.</value>
 	</entry>
 	<entry>
 		<key>Probe2Probably only a little. Tektite checked out the crash site with the old firewatch scout launcher and saw smoke, so they headed over to stamp out any leftover fires.</key>
-		<value>Probably only a little. Tektite checked out the crash site with the old firewatch scout launcher and saw smoke, so they headed over to stamp out any leftover fires.</value>
+		<value>Maybe some. Taekwondo assessed the space to enter the plane with the old frerevach and smoke smoke they can print the remaining fire.</value>
 	</entry>
 	<entry>
 		<key>Probe2Well, I better get back to work. This ore’s not going to mine itself, you know.</key>
-		<value>Well, I better get back to work. This ore’s not going to mine itself, you know.</value>
+		<value>Back to a good job you know, I will not have these minerals.</value>
 	</entry>
 	<entry>
 		<key>TooSickHurgh...</key>
-		<value>Hurgh...</value>
+		<value>The cost ...</value>
 	</entry>
 	<entry>
 		<key>SpaceOh, I thought I heard you lift off. Change your mind?</key>
-		<value>Oh, I thought I heard you lift off. Change your mind?</value>
+		<value>Oh, I thought you heard your update. Train your home and make changes?</value>
 	</entry>
 	<entry>
 		<key>TuffSpaceI needed a little more zero-g time.</key>
-		<value>I needed a little more zero-g time.</value>
+		<value>I wanted some time in zero graph.</value>
 	</entry>
 	<entry>
 		<key>TuffSpaceGive me the dirt.</key>
-		<value>Give me the dirt.</value>
+		<value>Give me garbage, now you hotweller</value>
 	</entry>
 	<entry>
 		<key>Arkose</key>
-		<value>Arkose</value>
+		<value>Stone-Brain Squiggle</value>
 	</entry>
 	<entry>
 		<key>Arkose1Hi, astronaut!</key>
-		<value>Hi, astronaut!</value>
+		<value>Hi Sand-Lord!</value>
 	</entry>
 	<entry>
 		<key>Arkose1You know the patch of ghost matter inside this fence? Gossan said it used to be bigger when they were a hatchling. ’Cause ghost matter evaporates.</key>
-		<value>You know the patch of ghost matter inside this fence? Gossan said it used to be bigger when they were a hatchling. 'Cause ghost matter evaporates.</value>
+		<value>Is it? Do you understand the spiritual patch of material in this fence? Gossan said he was the old when they were arrested. Because spirit substance will disappear like citizen air.</value>
 	</entry>
 	<entry>
 		<key>Arkose1It just takes a su-&lt;Pause=1&gt;u-&lt;Pause=1&gt;u-&lt;Pause=1&gt;per long time to go away.</key>
-		<value>It just takes a su-&lt;Pause=1&gt;u-&lt;Pause=1&gt;u-&lt;Pause=1&gt;per long time to go away.</value>
+		<value>This astrology problem needs su-&lt;Pause=1&gt;u-&lt;Pause=1&gt;u-&lt;Pause=1&gt;per long calendar to vanish.</value>
 	</entry>
 	<entry>
 		<key>Arkose1I hope there’s still ghost matter in the village when I’m a grown-up. Ghost matter is awesome!</key>
-		<value>I hope there's still ghost matter in the village when I'm a grown-up. Ghost matter is awesome!</value>
+		<value>I wish when adult time, the town still has spirit dust. Great Nations!</value>
 	</entry>
 	<entry>
 		<key>ArkoseArkose1Ghost matter is super cool. It’ll burn the heck out of you!</key>
-		<value>Ghost matter is super cool. It'll burn the heck out of you!</value>
+		<value>Dark powder is very nice. He will burn the cat from your body!</value>
 	</entry>
 	<entry>
 		<key>ArkoseArkose1You shouldn’t be throwing rocks in there — ghost matter is dangerous.</key>
-		<value>You shouldn't be throwing rocks in there — ghost matter is dangerous.</value>
+		<value>There you must not put stones inside - the darkness danger is real.</value>
 	</entry>
 	<entry>
 		<key>ArkoseArkose1You know ghost matter is how Tektite lost their foot, right?</key>
-		<value>You know ghost matter is how Tektite lost their foot, right?</value>
+		<value>You know the black spirit made Taekwondo lose his leg, yes?</value>
 	</entry>
 	<entry>
 		<key>Arkose2Yeah! I heard touching it hurts so bad it feels like your whole hand’s on fire!</key>
-		<value>Yeah! I heard touching it hurts so bad it feels like your whole hand's on fire!</value>
+		<value>Yes! I feel that the most unwatched injury, you feel-your-hand!</value>
 	</entry>
 	<entry>
 		<key>Arkose2Try not to walk into any in space, okay? That sounds bad and painful.</key>
-		<value>Try not to walk into any in space, okay? That sounds bad and painful.</value>
+		<value>Do not step into one in sky-space, correct? Evil or pain.</value>
 	</entry>
 	<entry>
 		<key>Arkose3Uhhh, obviously? That’s what makes it so &lt;i&gt;awesome&lt;/i&gt;? Geez, I’m not dumb enough to &lt;i&gt;touch&lt;/i&gt; it.</key>
-		<value>Uhhh, obviously? That's what makes it so &lt;i&gt;awesome&lt;/i&gt;? Geez, I'm not dumb enough to &lt;i&gt;touch&lt;/i&gt; it.</value>
+		<value>Sorry, obviously? What is this &lt;i&gt;happy&lt;/i&gt;? Jeeze, I am not silence brain to &lt;i&gt;reach&lt;/i&gt; the issue.</value>
 	</entry>
 	<entry>
 		<key>Arkose3Ugh, you’re such a grown-up.</key>
-		<value>Ugh, you're such a grown-up.</value>
+		<value>UG, you are very tall stupid thing that is not desirable.</value>
 	</entry>
 	<entry>
 		<key>Arkose4Whoa, really?! &lt;Pause=2&gt;...That is &lt;i&gt;so cool&lt;/i&gt;!</key>
-		<value>Whoa, really?! &lt;Pause=2&gt;...That is &lt;i&gt;so cool&lt;/i&gt;!</value>
+		<value>Eds? &lt;Pause=2&gt;... &lt;i&gt;the cool&lt;/i&gt;!</value>
 	</entry>
 	<entry>
 		<key>Arkose5It’s cool that Little Scouts can detect ghost matter and all, but what would be &lt;i&gt;really&lt;/i&gt; cool is if the Little Scout could, like, shoot ghost matter at stuff. All &lt;i&gt;pew pew pew&lt;/i&gt;!</key>
-		<value>It's cool that Little Scouts can detect ghost matter and all, but what would be &lt;i&gt;really&lt;/i&gt; cool is if the Little Scout could, like, shoot ghost matter at stuff. All &lt;i&gt;pew pew pew&lt;/i&gt;!</value>
+		<value>If small researchers may be willing to kill and discover, but if the little Scouting &lt;i&gt;study&lt;/i&gt; is uncontrolled. They are all &lt;i&gt;heavy&lt;/i&gt;!</value>
 	</entry>
 	<entry>
 		<key>SignThis anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere.</key>
-		<value>This anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere.</value>
+		<value>This example fish was glued to the legs of our canoe that fly near Black Plant. It is very suitable for small air and big darkness home.</value>
 	</entry>
 	<entry>
 		<key>SignOf all the lifeforms who will perish in the oncoming death of the universe, we will miss the anglerfish the least.</key>
-		<value>Of all the lifeforms who will perish in the oncoming death of the universe, we will miss the anglerfish the least.</value>
+		<value>All lives go away in universe death, but fish with lamp will be missed smallest.</value>
 	</entry>
 	<entry>
 		<key>SignOuter Wilds Ventures, Timber Hearth’s first and only space program, was founded to explore the farthest reaches of our solar system.</key>
-		<value>Outer Wilds Ventures, Timber Hearth’s first and only space program, was founded to explore the farthest reaches of our solar system.</value>
+		<value>Outer Jungle Journeys, first and alone tree program of Timber, was created to check farthest star edges of our system.</value>
 	</entry>
 	<entry>
 		<key>SignFeldspar was the first Hearthian to be intentionally launched into space. They completed the first orbit around Timber Hearth and later made the first of what would be many landings on our moon, the Attlerock.</key>
